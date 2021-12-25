@@ -1,2 +1,2 @@
-# GNN-Tutorial-s
+# GNN-Tutorials
 Created to learn Graph Neural Networks
