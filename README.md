@@ -9,3 +9,5 @@ https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials </br>
 https://github.com/eemlcommunity/PracticalSessions2021 </br>
 https://github.com/sum-coderepo/PytorchGeometricTutorial </br>
 https://antoniolonga.github.io/ </br>
+https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pandemic Forecasting </br>
+
