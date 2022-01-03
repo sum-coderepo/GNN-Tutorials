@@ -8,3 +8,4 @@ https://github.com/deepmind/educational Deepmind educational </br>
 https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials </br>
 https://github.com/eemlcommunity/PracticalSessions2021 </br>
 https://github.com/sum-coderepo/PytorchGeometricTutorial </br>
+https://antoniolonga.github.io/ </br>
