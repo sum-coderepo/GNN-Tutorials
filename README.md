@@ -1,8 +1,9 @@
 # GNN-Tutorials
-Created to learn Graph Neural Networks
-Papers
-https://github.com/thunlp/GNNPapers
+Created to learn Graph Neural Networks</br>
 
+Papers</br>
+https://github.com/thunlp/GNNPapers</br>
+</br>
 Repos
 https://github.com/mims-harvard/graphml-tutorials </br>
 https://github.com/sum-coderepo/Graph-Machine-Learning/tree/main/Graph-Machine-Learning-%20PacktPublishing </br>
