@@ -16,4 +16,4 @@ https://github.com/mims-harvard/graphml-tutorials </br>
 </br>
 
 Youtube:- </br>
-https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen </br>
+https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018 </br>
