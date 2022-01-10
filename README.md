@@ -19,7 +19,7 @@ Youtube:- </br>
 https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018 </br>
 
 
-Colab Notebooks
+Colab Notebooks  </br>
 https://colab.research.google.com/drive/1wKwdottbWOxTOgwVnaSLRzPAJPDP9z9n#scrollTo=S3VjuByGAx_V </br>
 https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn </br>
 https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb  </br>
