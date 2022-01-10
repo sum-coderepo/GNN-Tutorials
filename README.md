@@ -11,4 +11,9 @@ https://github.com/sum-coderepo/PytorchGeometricTutorial </br>
 https://antoniolonga.github.io/ </br>
 https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pandemic Forecasting </br>
 https://github.com/mims-harvard/graphml-tutorials </br>
+</br>
+</br>
+</br>
 
+Youtube:- </br>
+https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen </br>
