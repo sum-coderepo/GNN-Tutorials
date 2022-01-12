@@ -40,4 +40,5 @@ https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytor
 https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post1.html   </br>
 
 ### Applications
-https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18
+https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
+https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
