@@ -34,3 +34,4 @@ https://colab.research.google.com/drive/16QTNLSJUD_vTYF9fjHCPwC0Dz2_ysU0W#scroll
   </br>
 Blogs  </br>
 https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
+https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post1.html   </br>
