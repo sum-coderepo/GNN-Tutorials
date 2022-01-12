@@ -14,7 +14,8 @@ https://github.com/eemlcommunity/PracticalSessions2021 </br>
 https://github.com/sum-coderepo/PytorchGeometricTutorial </br>
 https://antoniolonga.github.io/ </br>
 https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pandemic Forecasting </br>
-https://github.com/mims-harvard/graphml-tutorials 
+https://github.com/mims-harvard/graphml-tutorials  </br>
+https://github.com/dawnranger/pytorch-AGNN </br>
 
 </br>
 </br>
@@ -42,6 +43,11 @@ https://colab.research.google.com/drive/16QTNLSJUD_vTYF9fjHCPwC0Dz2_ysU0W#scroll
 ## Blogs  </br>
 https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
 https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html   </br>
+https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html   </br>
+https://analyticsindiamag.com/how-to-use-graph-neural-networks-for-text-classification/   </br>
+https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc  </br>
+https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef  </br>
+https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
 
 ### Applications
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
