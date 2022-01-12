@@ -14,16 +14,20 @@ https://github.com/eemlcommunity/PracticalSessions2021 </br>
 https://github.com/sum-coderepo/PytorchGeometricTutorial </br>
 https://antoniolonga.github.io/ </br>
 https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pandemic Forecasting </br>
-https://github.com/mims-harvard/graphml-tutorials </br>
+https://github.com/mims-harvard/graphml-tutorials 
+
 </br>
 </br>
 </br>
+
+## Courses
 
 ## Youtube:- </br>
 https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018 </br>
 https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF Antonio Longa Pytorch Geometric tutorial </br>
 https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud&t=3 Antonio Longa Advanced PyTorch Geometric </br>
 https://www.youtube.com/c/DeepFindr/videos DeepFindr small videos on GNN </br>
+https://www.youtube.com/watch?v=zDFUu4ggVTg&t=140 Graph Embeddings and PyTorch-BigGraph </br>
 
 
 ## Colab Notebooks  </br>
@@ -37,8 +41,9 @@ https://colab.research.google.com/drive/16QTNLSJUD_vTYF9fjHCPwC0Dz2_ysU0W#scroll
 
 ## Blogs  </br>
 https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
-https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post1.html   </br>
+https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html   </br>
 
 ### Applications
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
 https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
+https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856  </br>
