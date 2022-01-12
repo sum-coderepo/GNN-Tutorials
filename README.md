@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8
 https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud&t=3 Antonio Longa Advanced PyTorch Geometric </br>
 https://www.youtube.com/c/DeepFindr/videos DeepFindr small videos on GNN </br>
 https://www.youtube.com/watch?v=zDFUu4ggVTg&t=140 Graph Embeddings and PyTorch-BigGraph </br>
+https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3 AMMI Geometric Deep Learning Course (2021)  </br>
 
 
 ## Colab Notebooks  </br>
