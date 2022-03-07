@@ -57,5 +57,7 @@ https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recomm
 
 
 ### CNN
-https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn </br>
+https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn  </br>
+https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/  </br>
+https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529  </br>
 
