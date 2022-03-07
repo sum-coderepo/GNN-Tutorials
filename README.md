@@ -54,3 +54,8 @@ https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytor
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
 https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
 https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856  </br>
+
+
+### CNN
+https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn </br>
+
