@@ -1,6 +1,20 @@
 # GNN-Tutorials
 Created to learn Graph Neural Networks</br>
 
+## Drug Discovery Research papers
+https://www.pnas.org/doi/pdf/10.1073/pnas.2025581118</br>
+https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00316</br>
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9378164</br>
+https://www.nature.com/articles/s41421-020-0153-3.pdf</br>
+https://arxiv.org/pdf/2111.12951.pdf</br>
+https://grlearning.github.io/slides/zitnik.pdf</br>
+https://www.nature.com/articles/s41598-021-02353-5.pdf</br>
+https://ieeexplore.ieee.org/document/8983257</br>
+https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16</br>
+https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312</br>
+
+
+
 ## <ins>Papers</ins> </br>
 https://github.com/thunlp/GNNPapers</br>
 </br>
