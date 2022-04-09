@@ -2,17 +2,19 @@
 Created to learn Graph Neural Networks</br>
 
 ## Drug Discovery Research papers
-https://www.pnas.org/doi/pdf/10.1073/pnas.2025581118</br>
-https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00316</br>
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9378164</br>
-https://www.nature.com/articles/s41421-020-0153-3.pdf</br>
-https://arxiv.org/pdf/2111.12951.pdf</br>
-https://grlearning.github.io/slides/zitnik.pdf</br>
-https://www.nature.com/articles/s41598-021-02353-5.pdf</br>
-https://ieeexplore.ieee.org/document/8983257</br>
-https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16</br>
-https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312</br>
-
+https://www.pnas.org/doi/pdf/10.1073/pnas.2025581118 </br>
+https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00316 </br>
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9378164 </br>
+https://www.nature.com/articles/s41421-020-0153-3.pdf </br>
+https://arxiv.org/pdf/2111.12951.pdf </br>
+https://grlearning.github.io/slides/zitnik.pdf </br>
+https://www.nature.com/articles/s41598-021-02353-5.pdf </br>
+https://ieeexplore.ieee.org/document/8983257 </br>
+https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16 </br>
+https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312 </br>
+https://medium.com/@terngoodod/graph-convolution-network-to-discover-drug-and-disease-paper-summay-bfa53e553724 </br>
+https://github.com/Barabasi-Lab/COVID-19 </br>
+https://github.com/microsoft/FS-Mol/tree/main/notebooks </br>
 
 
 ## <ins>Papers</ins> </br>
@@ -31,6 +33,7 @@ https://antoniolonga.github.io/ </br>
 https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pandemic Forecasting </br>
 https://github.com/mims-harvard/graphml-tutorials  </br>
 https://github.com/dawnranger/pytorch-AGNN </br>
+
 
 </br>
 </br>
@@ -74,11 +77,12 @@ https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
 https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856  </br>
 
 
-### <ins>CNN</ins>   
+### <ins>GNN</ins>   
 https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn  </br>
 https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/  </br>
 https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529  </br>
 https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/  </br>
+https://danielegrattarola.github.io/posts/2021-03-12/gnn-lecture-part-2.html
 
 ### <ins>GAT</ins>     
 #### github
@@ -92,6 +96,11 @@ https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a
 
 ### <ins>Message Passing</ins> 
 https://github.com/AnirudhDagar/MessagePassing_for_GNNs  </br>
+
+### <ins>Graph Sage</ins> 
+https://towardsdatascience.com/an-intuitive-explanation-of-graphsage-6df9437ee64f </br>
+https://dsgiitr.com/blogs/graphsage/</br>
+
 
 ### <ins>GCN</ins>   
 https://github.com/zhulf0804/GCN.PyTorch  </br>
