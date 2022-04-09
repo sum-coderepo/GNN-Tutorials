@@ -98,3 +98,7 @@ https://github.com/zhulf0804/GCN.PyTorch  </br>
 https://github.com/zjost/blog_code  </br>
 https://github.com/sw-gong/GNN-Tutorial/blob/master/GNN-tutorial-solution.ipynb  </br>
 
+
+### <ins>R-GCN</ins>   
+https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-27968a2ed143
+
