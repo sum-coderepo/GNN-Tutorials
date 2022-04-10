@@ -71,7 +71,8 @@ https://towardsdatascience.com/the-intuition-behind-graph-convolutions-and-messa
 https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br>
 https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-using-pytorch-2kf </br>
 http://www2.cs.cas.cz/semincm/lectures/2010-04-13-Hall.pdf --- Adjacency Matrix, Standard Laplacian,
-and Normalized Laplacian</br> 
+and Normalized Laplacian </br> 
+https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br> 
 
 ### <ins>Applications</ins>  
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
@@ -86,6 +87,9 @@ https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529  </br>
 https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/  </br>
 https://danielegrattarola.github.io/posts/2021-03-12/gnn-lecture-part-2.html </br>
 https://david010.medium.com/graph-neural-networks-3346c6fe7553 </br>
+https://distill.pub/2021/gnn-intro/ </br>
+https://distill.pub/2021/understanding-gnns/ </br>
+https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856 </br>
 
 ### <ins>GAT</ins>     
 #### github
@@ -93,6 +97,8 @@ https://github.com/dmlc/dgl/tree/master/tutorials  </br>
 https://github.com/raunakkmr/Graph-Attention-Networks  </br>
 https://github.com/gordicaleksa/pytorch-GAT  </br>
 https://github.com/Diego999/pyGAT  </br>
+https://github.com/HeapHop30/graph-attention-nets </br>
+
 
 #### Blogs
 https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87 </br>
@@ -109,6 +115,11 @@ https://dsgiitr.com/blogs/graphsage/</br>
 https://github.com/zhulf0804/GCN.PyTorch  </br>
 https://github.com/zjost/blog_code  </br>
 https://github.com/sw-gong/GNN-Tutorial/blob/master/GNN-tutorial-solution.ipynb  </br>
+https://medium.com/@sunitachoudhary103/how-to-deal-the-graphs-data-in-deep-learning-with-graph-convolutional-networks-gcn-39f69db072ee  </br>
+https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0  </br>
+https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b </br>
+https://towardsai.net/p/l/graph-convolutional-networks-gcn-explained-at-high-level </br>
+https://jonathan-hui.medium.com/graph-convolutional-networks-gcn-pooling-839184205692 </br>
 
 
 ### <ins>R-GCN</ins>   
