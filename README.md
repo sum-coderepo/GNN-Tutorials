@@ -70,6 +70,8 @@ https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytor
 https://towardsdatascience.com/the-intuition-behind-graph-convolutions-and-message-passing-6dcd0ebf0063  </br>
 https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br>
 https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-using-pytorch-2kf </br>
+http://www2.cs.cas.cz/semincm/lectures/2010-04-13-Hall.pdf --- Adjacency Matrix, Standard Laplacian,
+and Normalized Laplacian</br> 
 
 ### <ins>Applications</ins>  
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
@@ -82,7 +84,8 @@ https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn
 https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/  </br>
 https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529  </br>
 https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/  </br>
-https://danielegrattarola.github.io/posts/2021-03-12/gnn-lecture-part-2.html
+https://danielegrattarola.github.io/posts/2021-03-12/gnn-lecture-part-2.html </br>
+https://david010.medium.com/graph-neural-networks-3346c6fe7553 </br>
 
 ### <ins>GAT</ins>     
 #### github
