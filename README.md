@@ -13,6 +13,7 @@ https://www.nature.com/articles/s41598-021-02353-5.pdf Drug repurposing for COVI
 https://ieeexplore.ieee.org/document/8983257 GNDD: A Graph Neural Network-Based Method for Drug-Disease Association Prediction </br>
 https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16 Predicting Drug-Disease Associations Based on Multi-Graph Representation Learning </br>
 https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312 Modeling polypharmacy side effects with graph convolutional networks </br>
+https://pubmed.ncbi.nlm.nih.gov/33571675/ Drug repurposing for COVID-19 via knowledge graph completion  </br>
 https://medium.com/@terngoodod/graph-convolution-network-to-discover-drug-and-disease-paper-summay-bfa53e553724 </br>
 https://github.com/Barabasi-Lab/COVID-19 </br>
 https://github.com/microsoft/FS-Mol/tree/main/notebooks </br>
