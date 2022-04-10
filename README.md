@@ -7,12 +7,12 @@ https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00316 </br>
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9378164 </br>
 https://www.nature.com/articles/s41421-020-0153-3.pdf Network-based drug repurposing for novel
 coronavirus </br>
-https://arxiv.org/pdf/2111.12951.pdf </br>
-https://grlearning.github.io/slides/zitnik.pdf </br>
-https://www.nature.com/articles/s41598-021-02353-5.pdf </br>
-https://ieeexplore.ieee.org/document/8983257 </br>
-https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16 </br>
-https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312 </br>
+https://arxiv.org/pdf/2111.12951.pdf Reliable Graph Neural Networks for Drug Discovery </br>
+https://grlearning.github.io/slides/zitnik.pdf Graph Neural Networks for Drug Development</br>
+https://www.nature.com/articles/s41598-021-02353-5.pdf Drug repurposing for COVID‑19 using graph neural network and harmonizing multiple evidence </br>
+https://ieeexplore.ieee.org/document/8983257 GNDD: A Graph Neural Network-Based Method for Drug-Disease Association Prediction </br>
+https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16 Predicting Drug-Disease Associations Based on Multi-Graph Representation Learning </br>
+https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312 Modeling polypharmacy side effects with graph convolutional networks </br>
 https://medium.com/@terngoodod/graph-convolution-network-to-discover-drug-and-disease-paper-summay-bfa53e553724 </br>
 https://github.com/Barabasi-Lab/COVID-19 </br>
 https://github.com/microsoft/FS-Mol/tree/main/notebooks </br>
