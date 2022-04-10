@@ -120,6 +120,7 @@ https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-conv
 https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b </br>
 https://towardsai.net/p/l/graph-convolutional-networks-gcn-explained-at-high-level </br>
 https://jonathan-hui.medium.com/graph-convolutional-networks-gcn-pooling-839184205692 </br>
+https://www.topbots.com/graph-convolutional-networks/?sfw=pass1647722726 </br>
 
 
 ### <ins>R-GCN</ins>   
