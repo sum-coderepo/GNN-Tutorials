@@ -42,6 +42,7 @@ https://github.com/dawnranger/pytorch-AGNN </br>
 </br>
 
 ## <ins>Courses</ins> 
+https://wandb.ai/syllogismos
 
 ## <ins>Youtube</ins>   :- </br>
 https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018 </br>
