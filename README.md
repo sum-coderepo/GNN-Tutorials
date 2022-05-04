@@ -155,5 +155,6 @@ https://github.com/dmlc/dgl/tree/master/examples/pytorch/han </br>
 https://github.com/shionhonda/gae-dgl </br>
 https://github.com/zfjsail/gae-pytorch </br>
 https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl </br>
-https://chowdera.com/2022/02/202202161012041716.html
+https://chowdera.com/2022/02/202202161012041716.html </br>
+https://docs.dgl.ai/en/0.7.x/tutorials/blitz/4_link_predict.html </br> Link Prediction DGL
 
