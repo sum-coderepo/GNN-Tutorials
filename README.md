@@ -114,6 +114,8 @@ https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a
 https://modulai.io/blog/graph-networks-1/
 https://dsgiitr.com/blogs/gat/
 
+
+
 ### <ins>Message Passing</ins> 
 https://github.com/AnirudhDagar/MessagePassing_for_GNNs  </br>
 
