@@ -20,6 +20,7 @@ https://guyulongcs.github.io/files/IJCAI2019_HGAT.pdf </br>
 https://medium.com/@terngoodod/graph-convolution-network-to-discover-drug-and-disease-paper-summay-bfa53e553724 </br>
 https://github.com/Barabasi-Lab/COVID-19 </br>
 https://github.com/microsoft/FS-Mol/tree/main/notebooks </br>
+https://indico.cern.ch/event/948465/contributions/4323718/attachments/2248872/3814727/vCHEP_2021_Edge-Classifying_INs.pdf </br>
 
 
 ## <ins>Papers</ins> </br>
@@ -110,6 +111,8 @@ https://github.com/DaehanKim/vgae_pytorch </br>
 
 #### Blogs
 https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87 </br>
+https://modulai.io/blog/graph-networks-1/
+https://dsgiitr.com/blogs/gat/
 
 ### <ins>Message Passing</ins> 
 https://github.com/AnirudhDagar/MessagePassing_for_GNNs  </br>
@@ -142,5 +145,6 @@ https://github.com/dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rs
 https://github.com/dmlc/dgl/tree/master/examples/pytorch/han </br>
 https://github.com/shionhonda/gae-dgl </br>
 https://github.com/zfjsail/gae-pytorch </br>
-
+https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl </br>
+https://chowdera.com/2022/02/202202161012041716.html
 
