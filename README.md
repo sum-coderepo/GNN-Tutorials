@@ -21,6 +21,8 @@ https://medium.com/@terngoodod/graph-convolution-network-to-discover-drug-and-di
 https://github.com/Barabasi-Lab/COVID-19 </br>
 https://github.com/microsoft/FS-Mol/tree/main/notebooks </br>
 https://indico.cern.ch/event/948465/contributions/4323718/attachments/2248872/3814727/vCHEP_2021_Edge-Classifying_INs.pdf </br>
+https://github.com/NYXFLOWER/TIP -- Trigraph Model
+https://github.com/Jhy1993/HAN/blob/master/han.pdf -- Heterogeneous Graph Attention Network
 
 
 ## <ins>Papers</ins> </br>
@@ -39,6 +41,9 @@ https://antoniolonga.github.io/ </br>
 https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pandemic Forecasting </br>
 https://github.com/mims-harvard/graphml-tutorials  </br>
 https://github.com/dawnranger/pytorch-AGNN </br>
+https://github.com/zfjsail/gae-pytorch/tree/c0b95cac8eb2928d0b5d6d65fee938fe97f60262 Graph Auto-Encoder in PyTorch </br>
+
+
 
 
 </br>
@@ -81,6 +86,7 @@ http://www2.cs.cas.cz/semincm/lectures/2010-04-13-Hall.pdf --- Adjacency Matrix,
 and Normalized Laplacian </br> 
 https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br> 
 
+
 ### <ins>Applications</ins>  
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
 https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
@@ -103,16 +109,20 @@ https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recomm
 https://github.com/dmlc/dgl/tree/master/tutorials  </br>
 https://github.com/raunakkmr/Graph-Attention-Networks  </br>
 https://github.com/gordicaleksa/pytorch-GAT  </br>
+https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a  </br>
 https://github.com/Diego999/pyGAT  </br>
 https://github.com/HeapHop30/graph-attention-nets </br>
 https://github.com/Haiyang-W/DTI-GAT </br>
 https://github.com/DaehanKim/vgae_pytorch </br>
+https://github.com/zltao/MGAT
+
 
 
 #### Blogs
 https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87 </br>
 https://modulai.io/blog/graph-networks-1/
 https://dsgiitr.com/blogs/gat/
+https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post3.html
 
 
 
@@ -134,6 +144,8 @@ https://towardsdatascience.com/understanding-graph-convolutional-networks-for-no
 https://towardsai.net/p/l/graph-convolutional-networks-gcn-explained-at-high-level </br>
 https://jonathan-hui.medium.com/graph-convolutional-networks-gcn-pooling-839184205692 </br>
 https://www.topbots.com/graph-convolutional-networks/?sfw=pass1647722726 </br>
+https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449925#sec-11
+https://elizavetalebedeva.com/tag/graphs/
 
 
 ### <ins>R-GCN</ins>   
@@ -158,4 +170,8 @@ https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl </br>
 https://chowdera.com/2022/02/202202161012041716.html </br>
 https://docs.dgl.ai/en/0.7.x/tutorials/blitz/4_link_predict.html  Link Prediction DGL </br>
 https://qdmana.com/2021/12/202112300014335298.html#_699 Node classification and regression, Link prediction, Edge classification and regression, Whole graph classification </br>
+https://blog.katastros.com/a?ID=01600-8d070c20-6b1a-4f57-9459-ec545cc6a805 </br>
+https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroGraphConv.html DGL HeteroGraphConv
+https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroEmbedding.html DGL HeteroEmbedding
+https://github.com/ihollywhy/DistillGCN.PyTorch
 
