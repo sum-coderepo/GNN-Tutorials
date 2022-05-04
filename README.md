@@ -14,6 +14,9 @@ https://ieeexplore.ieee.org/document/8983257 GNDD: A Graph Neural Network-Based 
 https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16 Predicting Drug-Disease Associations Based on Multi-Graph Representation Learning </br>
 https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312 Modeling polypharmacy side effects with graph convolutional networks </br>
 https://pubmed.ncbi.nlm.nih.gov/33571675/ Drug repurposing for COVID-19 via knowledge graph completion  </br>
+https://arxiv.org/abs/2107.06099 </br>
+https://arxiv.org/pdf/1903.07293.pdf Heterogeneous Graph Attention Network </br>
+https://guyulongcs.github.io/files/IJCAI2019_HGAT.pdf </br>
 https://medium.com/@terngoodod/graph-convolution-network-to-discover-drug-and-disease-paper-summay-bfa53e553724 </br>
 https://github.com/Barabasi-Lab/COVID-19 </br>
 https://github.com/microsoft/FS-Mol/tree/main/notebooks </br>
@@ -101,6 +104,8 @@ https://github.com/raunakkmr/Graph-Attention-Networks  </br>
 https://github.com/gordicaleksa/pytorch-GAT  </br>
 https://github.com/Diego999/pyGAT  </br>
 https://github.com/HeapHop30/graph-attention-nets </br>
+https://github.com/Haiyang-W/DTI-GAT </br>
+https://github.com/DaehanKim/vgae_pytorch </br>
 
 
 #### Blogs
@@ -128,4 +133,14 @@ https://www.topbots.com/graph-convolutional-networks/?sfw=pass1647722726 </br>
 
 ### <ins>R-GCN</ins>   
 https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-27968a2ed143
+
+### <ins>Heterogeneous Graphs in DGL</ins>
+https://www.jianshu.com/p/767950b560c4 </br>
+https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
+https://lifesci.dgl.ai/_modules/dgllife/model/gnn/gat.html </br>
+https://github.com/dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rst </br>
+https://github.com/dmlc/dgl/tree/master/examples/pytorch/han </br>
+https://github.com/shionhonda/gae-dgl </br>
+https://github.com/zfjsail/gae-pytorch </br>
+
 
