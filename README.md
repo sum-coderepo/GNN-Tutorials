@@ -139,6 +139,13 @@ https://www.topbots.com/graph-convolutional-networks/?sfw=pass1647722726 </br>
 ### <ins>R-GCN</ins>   
 https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-27968a2ed143
 
+
+### <ins>Attention</ins>  
+#### Blogs
+https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb </br>
+
+
+
 ### <ins>Heterogeneous Graphs in DGL</ins>
 https://www.jianshu.com/p/767950b560c4 </br>
 https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
