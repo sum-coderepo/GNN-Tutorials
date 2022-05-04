@@ -156,5 +156,6 @@ https://github.com/shionhonda/gae-dgl </br>
 https://github.com/zfjsail/gae-pytorch </br>
 https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl </br>
 https://chowdera.com/2022/02/202202161012041716.html </br>
-https://docs.dgl.ai/en/0.7.x/tutorials/blitz/4_link_predict.html </br> Link Prediction DGL
+https://docs.dgl.ai/en/0.7.x/tutorials/blitz/4_link_predict.html  Link Prediction DGL </br>
+https://qdmana.com/2021/12/202112300014335298.html#_699 Node classification and regression, Link prediction, Edge classification and regression, Whole graph classification </br>
 
