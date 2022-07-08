@@ -1,6 +1,9 @@
 # GNN-Tutorials
 Created to learn Graph Neural Networks</br>
 
+Aweosme Links
+https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
+
 ## Drug Discovery Research papers
 https://www.pnas.org/doi/pdf/10.1073/pnas.2025581118 Network medicine framework for identifying drug-repurposing opportunities for COVID-19</br>
 https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00316 Repurpose Open Data to Discover Therapeutics for COVID-19 Using Deep Learning</br>
