@@ -109,7 +109,8 @@ https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recomm
 
 
 #### github
-https://github.com/alelab-upenn/graph-neural-networks/tree/master/alegnn/modules
+https://github.com/alelab-upenn/graph-neural-networks/tree/master/alegnn/modules </br>
+https://github.com/mtiezzi/torch_gnn -- Wrapper over pytorch GNN </br>
 
 
 
