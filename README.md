@@ -107,6 +107,13 @@ https://distill.pub/2021/gnn-intro/ </br>
 https://distill.pub/2021/understanding-gnns/ </br>
 https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856 </br>
 
+
+#### github
+https://github.com/alelab-upenn/graph-neural-networks/tree/master/alegnn/modules
+
+
+
+
 ### <ins>GAT</ins>     
 #### github
 https://github.com/dmlc/dgl/tree/master/tutorials  </br>
@@ -117,7 +124,10 @@ https://github.com/Diego999/pyGAT  </br>
 https://github.com/HeapHop30/graph-attention-nets </br>
 https://github.com/Haiyang-W/DTI-GAT </br>
 https://github.com/DaehanKim/vgae_pytorch </br>
-https://github.com/zltao/MGAT
+https://github.com/zltao/MGAT </br>
+https://github.com/thunlp/KernelGAT </br>
+https://github.com/taishan1994/pytorch_gat/tree/e48e158fd832abd016b0c9805e8f6ff47a56ee77 </br>
+https://github.com/dice-group/GATES </br>
 
 
 
@@ -170,6 +180,7 @@ https://github.com/dmlc/dgl/tree/master/examples/pytorch/han </br>
 https://github.com/shionhonda/gae-dgl </br>
 https://github.com/zfjsail/gae-pytorch </br>
 https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl </br>
+https://github.com/Jhy1993/HAN </br>
 https://chowdera.com/2022/02/202202161012041716.html </br>
 https://docs.dgl.ai/en/0.7.x/tutorials/blitz/4_link_predict.html  Link Prediction DGL </br>
 https://qdmana.com/2021/12/202112300014335298.html#_699 Node classification and regression, Link prediction, Edge classification and regression, Whole graph classification </br>
@@ -178,3 +189,8 @@ https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroGraphConv.html DGL HeteroGrap
 https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroEmbedding.html DGL HeteroEmbedding
 https://github.com/ihollywhy/DistillGCN.PyTorch
 
+
+### <ins>GAE</ins>  
+
+#### Github
+https://github.com/zfjsail/gae-pytorch </br>
