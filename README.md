@@ -142,6 +142,7 @@ https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post3.html
 
 ### <ins>Message Passing</ins> 
 https://github.com/AnirudhDagar/MessagePassing_for_GNNs  </br>
+https://towardsdatascience.com/the-intuition-behind-graph-convolutions-and-message-passing-6dcd0ebf0063  </br>
 
 ### <ins>Graph Sage</ins> 
 https://towardsdatascience.com/an-intuitive-explanation-of-graphsage-6df9437ee64f </br>
