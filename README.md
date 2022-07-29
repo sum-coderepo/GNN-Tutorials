@@ -10,7 +10,8 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
 
 ## <ins>Papers</ins> </br>
 https://github.com/thunlp/GNNPapers</br>
-https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/</br>
+https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/ </br>
+https://arxiv.org/pdf/1702.06106.pdf </br>
 
 
 ## datasets
