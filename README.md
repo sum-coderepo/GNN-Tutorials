@@ -39,8 +39,9 @@ https://github.com/zfjsail/gae-pytorch/tree/c0b95cac8eb2928d0b5d6d65fee938fe97f6
 </br>
 
 ## <ins>Courses</ins> 
-https://wandb.ai/syllogismos
-https://web.stanford.edu/class/cs25/ -- Transformer United
+https://wandb.ai/syllogismos </br>
+https://web.stanford.edu/class/cs25/ -- Transformer United </br>
+https://geometricdeeplearning.com/lectures/ </br>
 
 ## <ins>Youtube</ins>   :- </br>
 https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018 </br>
