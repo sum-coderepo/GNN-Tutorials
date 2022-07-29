@@ -20,7 +20,6 @@ https://github.com/eemlcommunity/PracticalSessions2021 </br>
 https://github.com/sum-coderepo/PytorchGeometricTutorial </br>
 https://antoniolonga.github.io/ </br>
 https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pandemic Forecasting </br>
-https://github.com/mims-harvard/graphml-tutorials  </br>
 https://github.com/dawnranger/pytorch-AGNN </br>
 https://github.com/zfjsail/gae-pytorch/tree/c0b95cac8eb2928d0b5d6d65fee938fe97f60262 Graph Auto-Encoder in PyTorch </br>
 
