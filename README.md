@@ -4,28 +4,6 @@ Created to learn Graph Neural Networks</br>
 Aweosme Links
 https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
 
-## Drug Discovery Research papers
-https://www.pnas.org/doi/pdf/10.1073/pnas.2025581118 Network medicine framework for identifying drug-repurposing opportunities for COVID-19</br>
-https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00316 Repurpose Open Data to Discover Therapeutics for COVID-19 Using Deep Learning</br>
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9378164 Graph Neural Networks for COVID-19 Drug Discovery</br>
-https://www.nature.com/articles/s41421-020-0153-3.pdf Network-based drug repurposing for novel
-coronavirus </br>
-https://arxiv.org/pdf/2111.12951.pdf Reliable Graph Neural Networks for Drug Discovery </br>
-https://grlearning.github.io/slides/zitnik.pdf Graph Neural Networks for Drug Development</br>
-https://www.nature.com/articles/s41598-021-02353-5.pdf Drug repurposing for COVID‑19 using graph neural network and harmonizing multiple evidence </br>
-https://ieeexplore.ieee.org/document/8983257 GNDD: A Graph Neural Network-Based Method for Drug-Disease Association Prediction </br>
-https://www.frontiersin.org/articles/10.3389/fgene.2021.657182/full#B16 Predicting Drug-Disease Associations Based on Multi-Graph Representation Learning </br>
-https://academic.oup.com/bioinformatics/article/34/13/i457/5045770#118273312 Modeling polypharmacy side effects with graph convolutional networks </br>
-https://pubmed.ncbi.nlm.nih.gov/33571675/ Drug repurposing for COVID-19 via knowledge graph completion  </br>
-https://arxiv.org/abs/2107.06099 </br>
-https://arxiv.org/pdf/1903.07293.pdf Heterogeneous Graph Attention Network </br>
-https://guyulongcs.github.io/files/IJCAI2019_HGAT.pdf </br>
-https://medium.com/@terngoodod/graph-convolution-network-to-discover-drug-and-disease-paper-summay-bfa53e553724 </br>
-https://github.com/Barabasi-Lab/COVID-19 </br>
-https://github.com/microsoft/FS-Mol/tree/main/notebooks </br>
-https://indico.cern.ch/event/948465/contributions/4323718/attachments/2248872/3814727/vCHEP_2021_Edge-Classifying_INs.pdf </br>
-https://github.com/NYXFLOWER/TIP -- Trigraph Model
-https://github.com/Jhy1993/HAN/blob/master/han.pdf -- Heterogeneous Graph Attention Network
 
 
 ## <ins>Papers</ins> </br>
@@ -196,3 +174,6 @@ https://github.com/ihollywhy/DistillGCN.PyTorch
 
 #### Github
 https://github.com/zfjsail/gae-pytorch </br>
+
+### <ins>Attention</ins>
+https://github.com/cmhungsteve/Awesome-Transformer-Attention
