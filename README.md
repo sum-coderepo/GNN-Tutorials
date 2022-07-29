@@ -8,6 +8,9 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
 
 ## <ins>Papers</ins> </br>
 https://github.com/thunlp/GNNPapers</br>
+https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/</br>
+
+
 </br>
 ## <ins>Repos</ins>   </br>
 https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks
@@ -66,12 +69,14 @@ https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-u
 http://www2.cs.cas.cz/semincm/lectures/2010-04-13-Hall.pdf --- Adjacency Matrix, Standard Laplacian,
 and Normalized Laplacian </br> 
 https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br> 
+https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af </br> 
 
 
 ### <ins>Applications</ins>  
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
 https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
 https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856  </br>
+https://towardsdatascience.com/training-neural-networks-to-predict-rankings-8a3308c472e6 </br>
 
 
 ### <ins>GNN</ins>   
