@@ -17,7 +17,6 @@ https://arxiv.org/pdf/1702.06106.pdf </br>
 ## datasets
 https://paperswithcode.com/datasets </br>
 
-</br>
 ## <ins>Repos</ins>   </br>
 https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks
 https://github.com/mims-harvard/graphml-tutorials </br>
