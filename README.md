@@ -76,7 +76,8 @@ and Normalized Laplacian </br>
 https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br> 
 https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af </br> 
 https://theaisummer.com/gnn-architectures/?fbclid=IwAR31IBWcJhNwuZFhzUhjuNaEOoDPr07WO7kEuZaLc46p4BL90-vIiKgYpUU </br> 
-
+https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3 -- centality  </br> 
+ 
 
 ### <ins>Applications</ins>  
 https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
