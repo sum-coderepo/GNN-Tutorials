@@ -50,6 +50,7 @@ https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_
 https://www.youtube.com/c/DeepFindr/videos DeepFindr small videos on GNN </br>
 https://www.youtube.com/watch?v=zDFUu4ggVTg&t=140 Graph Embeddings and PyTorch-BigGraph </br>
 https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3 AMMI Geometric Deep Learning Course (2021)  </br>
+https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C AMMI Geometric Deep Learning Course (2022)  </br>
 
 
 ## <ins>Colab Notebooks</ins>    </br>
