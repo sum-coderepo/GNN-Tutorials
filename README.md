@@ -192,3 +192,21 @@ https://github.com/zfjsail/gae-pytorch </br>
 
 ### <ins>Attention</ins>
 https://github.com/cmhungsteve/Awesome-Transformer-Attention
+
+### <ins>Unorganised</ins>
+https://arxiv.org/abs/2111.10144 -- Positional Encoder Graph Neural Networks for Geographic Data </br>
+https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-predict-traffic-speed-in-20-minutes-b593f8f838e5 </br>
+https://smartmobilityalgorithms.github.io/book/content/GraphSearchAlgorithms/index.html </br>
+https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
+https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b </br>
+https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
+https://arxiv.org/pdf/2107.10648.pdf -- DEAP-FAKED: Knowledge Graph based Approach for Fake News Detection </br>
+https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
+https://aclanthology.org/2021.repl4nlp-1.10.pdf -- Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions </br>
+https://www.hindawi.com/journals/complexity/2020/3857871/ -- A Tri-Attention Neural Network Model-BasedRecommendation </br>
+
+
+
+
+
+
