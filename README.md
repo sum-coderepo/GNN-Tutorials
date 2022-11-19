@@ -197,13 +197,14 @@ https://github.com/zfjsail/gae-pytorch </br>
 https://github.com/seongjunyun/Graph_Transformer_Networks </br>
 https://github.com/pyg-team/pytorch_geometric/blob/82de9543022d69e5703c17179d77579521ebb43a/examples/tgn.py </br>
 https://github.com/graphdeeplearning/graphtransformer </br>
+https://web.stanford.edu/class/cs25/ -- Transformer United </br> -- 8 lectures on Transformers
 
 ### <ins> Knowledge Graph</ins>
 
 #### Blogs
 https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
 https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef </br>
-https://web.stanford.edu/class/cs25/ -- Transformer United </br> -- 8 lectures on Transformers
+
 
 #### Research Papers on Knowledge Graph
 https://arxiv.org/pdf/2004.14171.pdf
