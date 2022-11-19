@@ -163,8 +163,7 @@ https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-2
 ### <ins>Attention</ins>  
 #### Blogs
 https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb </br>
-
-
+https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
 ### <ins>Heterogeneous Graphs in DGL</ins>
 https://www.jianshu.com/p/767950b560c4 </br>
@@ -196,11 +195,11 @@ https://github.com/zfjsail/gae-pytorch </br>
 
 https://github.com/seongjunyun/Graph_Transformer_Networks </br>
 https://github.com/pyg-team/pytorch_geometric/blob/82de9543022d69e5703c17179d77579521ebb43a/examples/tgn.py </br>
+https://github.com/graphdeeplearning/graphtransformer </br>
 
 
 
-### <ins>Attention</ins>
-https://github.com/cmhungsteve/Awesome-Transformer-Attention
+
 
 ### <ins>Unorganised</ins>
 https://arxiv.org/abs/2111.10144 -- Positional Encoder Graph Neural Networks for Geographic Data </br>
