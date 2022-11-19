@@ -197,8 +197,11 @@ https://github.com/seongjunyun/Graph_Transformer_Networks </br>
 https://github.com/pyg-team/pytorch_geometric/blob/82de9543022d69e5703c17179d77579521ebb43a/examples/tgn.py </br>
 https://github.com/graphdeeplearning/graphtransformer </br>
 
+### <ins> Knowledge Graph</ins>
 
-
+#### Blogs
+https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
+https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef
 
 
 ### <ins>Unorganised</ins>
@@ -209,7 +212,7 @@ https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-
 https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b </br>
 https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
 https://arxiv.org/pdf/2107.10648.pdf -- DEAP-FAKED: Knowledge Graph based Approach for Fake News Detection </br>
-https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
+
 https://aclanthology.org/2021.repl4nlp-1.10.pdf -- Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions </br>
 https://www.hindawi.com/journals/complexity/2020/3857871/ -- A Tri-Attention Neural Network Model-BasedRecommendation </br>
 
