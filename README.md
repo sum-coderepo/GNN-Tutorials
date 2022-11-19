@@ -200,7 +200,7 @@ https://github.com/graphdeeplearning/graphtransformer </br>
 
 #### Blogs
 https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
-https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef
+https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef </br>
 https://web.stanford.edu/class/cs25/ -- Transformer United </br> -- 8 lectures on Transformers
 
 #### Research Papers on Knowledge Graph
