@@ -40,7 +40,6 @@ https://github.com/zfjsail/gae-pytorch/tree/c0b95cac8eb2928d0b5d6d65fee938fe97f6
 
 ## <ins>Courses</ins> 
 https://wandb.ai/syllogismos </br>
-https://web.stanford.edu/class/cs25/ -- Transformer United </br>
 https://geometricdeeplearning.com/lectures/ </br>
 
 ## <ins>Youtube</ins>   :- </br>
@@ -202,6 +201,7 @@ https://github.com/graphdeeplearning/graphtransformer </br>
 #### Blogs
 https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
 https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef
+https://web.stanford.edu/class/cs25/ -- Transformer United </br> -- 8 lectures on Transformers
 
 #### Research Papers on Knowledge Graph
 https://arxiv.org/pdf/2004.14171.pdf
