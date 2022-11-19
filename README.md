@@ -12,6 +12,8 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks
 https://github.com/thunlp/GNNPapers</br>
 https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/ </br>
 https://arxiv.org/pdf/1702.06106.pdf </br>
+https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
+
 
 
 ## <ins>datasets</ins> </br>
