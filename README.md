@@ -203,6 +203,8 @@ https://github.com/graphdeeplearning/graphtransformer </br>
 https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
 https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef
 
+#### Research Papers on Knowledge Graph
+https://arxiv.org/pdf/2004.14171.pdf
 
 ### <ins>Unorganised</ins>
 https://arxiv.org/abs/2111.10144 -- Positional Encoder Graph Neural Networks for Geographic Data </br>
