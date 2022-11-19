@@ -190,6 +190,12 @@ https://github.com/ihollywhy/DistillGCN.PyTorch
 #### Github
 https://github.com/zfjsail/gae-pytorch </br>
 
+### <ins> Graph Transformer</ins>
+
+#### Github
+
+https://github.com/seongjunyun/Graph_Transformer_Networks </br>
+
 ### <ins>Attention</ins>
 https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
