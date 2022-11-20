@@ -167,7 +167,7 @@ https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-2
 https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb </br>
 https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
-### <ins>Heterogeneous Graphs in DGL</ins>
+### <ins>Heterogeneous Graphs</ins>
 https://www.jianshu.com/p/767950b560c4 </br>
 https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
 https://lifesci.dgl.ai/_modules/dgllife/model/gnn/gat.html </br>
@@ -181,9 +181,11 @@ https://chowdera.com/2022/02/202202161012041716.html </br>
 https://docs.dgl.ai/en/0.7.x/tutorials/blitz/4_link_predict.html  Link Prediction DGL </br>
 https://qdmana.com/2021/12/202112300014335298.html#_699 Node classification and regression, Link prediction, Edge classification and regression, Whole graph classification </br>
 https://blog.katastros.com/a?ID=01600-8d070c20-6b1a-4f57-9459-ec545cc6a805 </br>
-https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroGraphConv.html DGL HeteroGraphConv
-https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroEmbedding.html DGL HeteroEmbedding
-https://github.com/ihollywhy/DistillGCN.PyTorch
+https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroGraphConv.html DGL HeteroGraphConv </br>
+https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroEmbedding.html DGL HeteroEmbedding </br>
+https://github.com/ihollywhy/DistillGCN.PyTorch </br>
+[HGAT: Heterogeneous Graph Attention Networks for
+Semi-supervised Short Text Classification] https://www.researchgate.net/profile/Xiaoli-Li-20/publication/336996544_Heterogeneous_Graph_Attention_Networks_for_Semi-supervised_Short_Text_Classification/links/60c466ad4585157774cc99c0/Heterogeneous-Graph-Attention-Networks-for-Semi-supervised-Short-Text-Classification.pdf</br>
 
 
 ### <ins>GAE</ins>  
