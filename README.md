@@ -184,8 +184,8 @@ https://blog.katastros.com/a?ID=01600-8d070c20-6b1a-4f57-9459-ec545cc6a805 </br>
 https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroGraphConv.html DGL HeteroGraphConv </br>
 https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroEmbedding.html DGL HeteroEmbedding </br>
 https://github.com/ihollywhy/DistillGCN.PyTorch </br>
-[HGAT: Heterogeneous Graph Attention Networks for
-Semi-supervised Short Text Classification] https://www.researchgate.net/profile/Xiaoli-Li-20/publication/336996544_Heterogeneous_Graph_Attention_Networks_for_Semi-supervised_Short_Text_Classification/links/60c466ad4585157774cc99c0/Heterogeneous-Graph-Attention-Networks-for-Semi-supervised-Short-Text-Classification.pdf</br>
+https://www.researchgate.net/profile/Xiaoli-Li-20/publication/336996544_Heterogeneous_Graph_Attention_Networks_for_Semi-supervised_Short_Text_Classification/links/60c466ad4585157774cc99c0/Heterogeneous-Graph-Attention-Networks-for-Semi-supervised-Short-Text-Classification.pdf [HGAT: Heterogeneous Graph Attention Networks for
+Semi-supervised Short Text Classification]</br>
 
 
 ### <ins>GAE</ins>  
