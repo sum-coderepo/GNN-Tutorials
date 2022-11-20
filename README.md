@@ -203,6 +203,7 @@ https://web.stanford.edu/class/cs25/ -- Transformer United </br> -- 8 lectures o
 
 #### Research Papers on Graph Transformer Network
 https://paperswithcode.com/paper/graph-transformer-networks-1 </br>
+https://arxiv.org/abs/2012.09699  -- A Generalization of Transformer Networks to Graphs </br>
 
 
 ### <ins> Knowledge Graph</ins>
