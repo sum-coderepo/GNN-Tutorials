@@ -199,6 +199,12 @@ https://github.com/pyg-team/pytorch_geometric/blob/82de9543022d69e5703c17179d775
 https://github.com/graphdeeplearning/graphtransformer </br>
 https://web.stanford.edu/class/cs25/ -- Transformer United </br> -- 8 lectures on Transformers
 
+
+
+#### Research Papers on Graph Transformer Network
+https://paperswithcode.com/paper/graph-transformer-networks-1 </br>
+
+
 ### <ins> Knowledge Graph</ins>
 
 #### Blogs
