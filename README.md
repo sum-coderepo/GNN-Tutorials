@@ -223,6 +223,15 @@ https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dg
 #### Research Papers on Knowledge Graph
 https://arxiv.org/pdf/2004.14171.pdf
 
+### Fake News Detection
+
+https://github.com/shiivangii/SpotFake </br>
+https://github.com/valayDave/fake-news-detection-han </br>
+https://github.com/faiazrahman/Multimodal-Fake-News-Detection </br>
+
+
+
+
 ### <ins>Unorganised</ins>
 https://arxiv.org/abs/2111.10144 -- Positional Encoder Graph Neural Networks for Geographic Data </br>
 https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-predict-traffic-speed-in-20-minutes-b593f8f838e5 </br>
