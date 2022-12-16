@@ -228,6 +228,30 @@ https://arxiv.org/pdf/2004.14171.pdf
 https://github.com/shiivangii/SpotFake </br>
 https://github.com/valayDave/fake-news-detection-han </br>
 https://github.com/faiazrahman/Multimodal-Fake-News-Detection </br>
+https://github.com/chenxwh/fake-news-detection </br>
+
+
+### MultiModal
+
+#### Github
+https://github.com/iiscleap/multimodal_emotion_recognition </br>
+https://github.com/rsinghlab/maddi </br>
+https://github.com/sum-coderepo/multimodal-deep-learning </br>
+https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph
+
+#### Research Papers on MultiModal
+https://arxiv.org/abs/2203.13883 -- Multi-modal Misinformation Detection: Approaches, Challenges and Opportunities </br>
+https://paperswithcode.com/paper/towards-multimodal-sarcasm-detection-an-1 -- Towards Multimodal Sarcasm Detection </br>
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9541113 -- Multi-Level Multi-Modal Cross-Attention Network for Fake News Detection </br>
+
+
+#### Dataset <MultiModal>
+ 
+https://paperswithcode.com/task/multimodal-deep-learning#datasets </br>
+https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for -- Alzheimer's Disease Diagnosis </br>
+
+  
+
 
 
 
