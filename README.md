@@ -147,17 +147,25 @@ https://dsgiitr.com/blogs/graphsage/</br>
 
 
 ### <ins>GCN</ins>   
+
+#### Github
 https://github.com/zhulf0804/GCN.PyTorch  </br>
 https://github.com/zjost/blog_code  </br>
 https://github.com/sw-gong/GNN-Tutorial/blob/master/GNN-tutorial-solution.ipynb  </br>
+https://github.com/tkipf/pygcn https://tkipf.github.io/graph-convolutional-networks/  </br>
+https://github.com/praxidike97/GraphNeuralNet
+
+
+#### Blogs
 https://medium.com/@sunitachoudhary103/how-to-deal-the-graphs-data-in-deep-learning-with-graph-convolutional-networks-gcn-39f69db072ee  </br>
 https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-62acf5b143d0  </br>
 https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b </br>
 https://towardsai.net/p/l/graph-convolutional-networks-gcn-explained-at-high-level </br>
 https://jonathan-hui.medium.com/graph-convolutional-networks-gcn-pooling-839184205692 </br>
 https://www.topbots.com/graph-convolutional-networks/?sfw=pass1647722726 </br>
-https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449925#sec-11
-https://elizavetalebedeva.com/tag/graphs/
+https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449925#sec-11 </br>
+https://elizavetalebedeva.com/tag/graphs/ </br>
+https://antonsruberts.github.io/graph/gcn/ Graph Convolutional Networks for Classification </br>
 
 
 ### <ins>R-GCN</ins>   
