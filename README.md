@@ -237,7 +237,8 @@ https://github.com/shiivangii/SpotFake </br>
 https://github.com/valayDave/fake-news-detection-han </br>
 https://github.com/faiazrahman/Multimodal-Fake-News-Detection </br>
 https://github.com/chenxwh/fake-news-detection </br>
-
+https://arxiv.org/abs/2007.03316 GNN with Continual Learning for Fake News Detection from Social Media  </br>
+https://github.com/MysteryVaibhav/RWR-GAE
 
 ### MultiModal
 
@@ -245,12 +246,18 @@ https://github.com/chenxwh/fake-news-detection </br>
 https://github.com/iiscleap/multimodal_emotion_recognition </br>
 https://github.com/rsinghlab/maddi </br>
 https://github.com/sum-coderepo/multimodal-deep-learning </br>
-https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph
+https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph </br>
 
 #### Research Papers on MultiModal
 https://arxiv.org/abs/2203.13883 -- Multi-modal Misinformation Detection: Approaches, Challenges and Opportunities </br>
 https://paperswithcode.com/paper/towards-multimodal-sarcasm-detection-an-1 -- Towards Multimodal Sarcasm Detection </br>
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9541113 -- Multi-Level Multi-Modal Cross-Attention Network for Fake News Detection </br>
+https://arxiv.org/abs/2203.05880 -- Multi-modal Graph Learning for Disease Prediction  </br>
+https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512176 -- Multimodal Continual Graph Learning with Neural Architecture Search </br>
+https://arxiv.org/abs/2209.03299 -- Multimodal learning with graphs </br>
+
+#### Blogs
+https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4 </br>
 
 
 #### Dataset <MultiModal>
