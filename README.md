@@ -158,6 +158,7 @@ https://github.com/tkipf/pygcn   </br>
 https://tkipf.github.io/graph-convolutional-networks/  </br>
 https://github.com/praxidike97/GraphNeuralNet   </br>
 https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb    </br>
+https://github.com/imayachita/Explore_GCN/blob/master/Building_GCN.ipynb   -- From scratch </br>
 
 
 #### Blogs
