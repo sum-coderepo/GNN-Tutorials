@@ -132,7 +132,7 @@ https://github.com/dice-group/GATES </br>
 #### Blogs
 https://towardsdatascience.com/graph-attention-networks-under-the-hood-3bd70dc7a87 </br>
 https://modulai.io/blog/graph-networks-1/ </br>
-https://dsgiitr.com/blogs/gat/ </br>
+https://dsgiitr.com/blogs/gat/ -- Explained nicely </br>
 https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post3.html </br>
 https://towardsdatascience.com/graph-ml-in-2022-where-are-we-now-f7f8242599e0 </br>
 
