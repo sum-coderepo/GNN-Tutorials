@@ -152,7 +152,7 @@ https://dsgiitr.com/blogs/graphsage/</br>
 
 #### Github
 https://github.com/zhulf0804/GCN.PyTorch  </br>
-https://github.com/zjost/blog_code  </br>
+https://github.com/zjost/blog_code -- GCN from Numpy </br>
 https://github.com/sw-gong/GNN-Tutorial/blob/master/GNN-tutorial-solution.ipynb  </br>
 https://github.com/tkipf/pygcn   </br> 
 https://tkipf.github.io/graph-convolutional-networks/  </br>
