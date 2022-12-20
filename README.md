@@ -155,8 +155,8 @@ https://github.com/zhulf0804/GCN.PyTorch  </br>
 https://github.com/zjost/blog_code  </br>
 https://github.com/sw-gong/GNN-Tutorial/blob/master/GNN-tutorial-solution.ipynb  </br>
 https://github.com/tkipf/pygcn https://tkipf.github.io/graph-convolutional-networks/  </br>
-https://github.com/praxidike97/GraphNeuralNet
-
+https://github.com/praxidike97/GraphNeuralNet   </br>
+https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb    </br>
 
 #### Blogs
 https://medium.com/@sunitachoudhary103/how-to-deal-the-graphs-data-in-deep-learning-with-graph-convolutional-networks-gcn-39f69db072ee  </br>
