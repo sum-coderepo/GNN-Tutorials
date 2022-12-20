@@ -154,9 +154,11 @@ https://dsgiitr.com/blogs/graphsage/</br>
 https://github.com/zhulf0804/GCN.PyTorch  </br>
 https://github.com/zjost/blog_code  </br>
 https://github.com/sw-gong/GNN-Tutorial/blob/master/GNN-tutorial-solution.ipynb  </br>
-https://github.com/tkipf/pygcn https://tkipf.github.io/graph-convolutional-networks/  </br>
+https://github.com/tkipf/pygcn   </br> 
+https://tkipf.github.io/graph-convolutional-networks/  </br>
 https://github.com/praxidike97/GraphNeuralNet   </br>
 https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb    </br>
+
 
 #### Blogs
 https://medium.com/@sunitachoudhary103/how-to-deal-the-graphs-data-in-deep-learning-with-graph-convolutional-networks-gcn-39f69db072ee  </br>
@@ -168,7 +170,7 @@ https://www.topbots.com/graph-convolutional-networks/?sfw=pass1647722726 </br>
 https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449925#sec-11 </br>
 https://elizavetalebedeva.com/tag/graphs/ </br>
 https://antonsruberts.github.io/graph/gcn/ Graph Convolutional Networks for Classification </br>
-
+https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801
 
 ### <ins>R-GCN</ins>   
 https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-27968a2ed143
