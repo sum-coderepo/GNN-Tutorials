@@ -6,7 +6,7 @@ Created to learn Graph Neural Networks</br>
 Aweosme Links
 https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks  </br>
 [LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw)
-
+https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
 
 
 ## <ins>Papers</ins> </br>
@@ -22,7 +22,7 @@ https://aclanthology.org/2021.acl-long.62.pdf -- Graph Neural Fake News Detectio
 https://paperswithcode.com/datasets </br>
 
 ## <ins>Repos</ins>   </br>
-https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks
+
 https://github.com/mims-harvard/graphml-tutorials </br>
 https://github.com/sum-coderepo/Graph-Machine-Learning/tree/main/Graph-Machine-Learning-%20PacktPublishing </br>
 https://github.com/thunlp/GNNPapers -- GNN Papers </br>
