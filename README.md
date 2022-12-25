@@ -138,6 +138,7 @@ https://dsgiitr.com/blogs/gat/ -- Explained nicely </br>
 https://docs.dgl.ai/en/0.8.x/tutorials/models/1_gnn/9_gat.html  -- Explained nicely </br>
 https://antoniolonga.github.io/Pytorch_geometric_tutorials/posts/post3.html </br>
 https://towardsdatascience.com/graph-ml-in-2022-where-are-we-now-f7f8242599e0 </br>
+https://towardsdatascience.com/graph-attention-networks-in-python-975736ac5c0c
 
 
 
