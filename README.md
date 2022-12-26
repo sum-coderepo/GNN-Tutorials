@@ -294,6 +294,6 @@ https://github.com/Hunter-DDM/InvTransE-and-InvRotatE  ---> https://arxiv.org/pd
 | Title | Github   | Link | Genre |
 | :---         |     :---:      |          ---: |          ---: |
 | Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | https://arxiv.org/pdf/2006.14002.pdf     | TBD |
-| git diff     | git diff       | git diff      | TBD |
+| NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | https://github.com/QData/LaMP       | https://arxiv.org/pdf/1904.08049.pdf      | TBD |
 
 
