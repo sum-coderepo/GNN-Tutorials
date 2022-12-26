@@ -275,12 +275,13 @@ https://github.com/thunlp/GNNPapers</br>
 https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/ </br>
 https://arxiv.org/pdf/1702.06106.pdf </br>
 https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
-https://aclanthology.org/2021.acl-long.62.pdf -- Graph Neural Fake News Detection with External Knowledge  </br>
+
 
 
 https://github.com/codeKgu/BiLevel-Graph-Neural-Network ----> https://arxiv.org/pdf/2006.14002.pdf (Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction)  </br>
 https://github.com/QData/LaMP ----> https://arxiv.org/pdf/1904.08049.pdf (NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION)  </br>
 https://github.com/cynricfu/MAGNN ----> https://arxiv.org/abs/2002.01680 (MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding)  </br>
+https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection ---> https://aclanthology.org/2021.acl-long.62.pdf (Graph Neural Fake News Detection with External Knowledge)  </br>
 
 
 
