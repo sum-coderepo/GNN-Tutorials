@@ -77,6 +77,11 @@ https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642
 https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af </br> 
 https://theaisummer.com/gnn-architectures/?fbclid=IwAR31IBWcJhNwuZFhzUhjuNaEOoDPr07WO7kEuZaLc46p4BL90-vIiKgYpUU </br> 
 https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3 -- centality  </br> 
+https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-predict-traffic-speed-in-20-minutes-b593f8f838e5 </br>
+https://smartmobilityalgorithms.github.io/book/content/GraphSearchAlgorithms/index.html </br>
+https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
+https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
+
  
 
 ### <ins>Applications</ins>  
@@ -272,8 +277,7 @@ https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for --
 
 ## <ins>Research Papers</ins> </br>
 https://github.com/thunlp/GNNPapers</br>
-https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/ </br>
-https://arxiv.org/pdf/1702.06106.pdf </br>
+
 https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
 
 
@@ -282,21 +286,8 @@ https://github.com/codeKgu/BiLevel-Graph-Neural-Network ----> https://arxiv.org/
 https://github.com/QData/LaMP ----> https://arxiv.org/pdf/1904.08049.pdf (NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION)  </br>
 https://github.com/cynricfu/MAGNN ----> https://arxiv.org/abs/2002.01680 (MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding)  </br>
 https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection ---> https://aclanthology.org/2021.acl-long.62.pdf (Graph Neural Fake News Detection with External Knowledge)  </br>
-
-
-
-### <ins>Unorganised</ins>
-https://arxiv.org/abs/2111.10144 -- Positional Encoder Graph Neural Networks for Geographic Data </br>
-https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-predict-traffic-speed-in-20-minutes-b593f8f838e5 </br>
-https://smartmobilityalgorithms.github.io/book/content/GraphSearchAlgorithms/index.html </br>
-https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
-https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b </br>
-https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
-https://arxiv.org/pdf/2107.10648.pdf -- DEAP-FAKED: Knowledge Graph based Approach for Fake News Detection </br>
-
-
-https://aclanthology.org/2021.repl4nlp-1.10.pdf -- Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions </br>
-https://www.hindawi.com/journals/complexity/2020/3857871/ -- A Tri-Attention Neural Network Model-BasedRecommendation </br>
+https://github.com/konstantinklemmer/pe-gnn  ---> https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for (Positional Encoder Graph Neural Networks for Geographic Data)  </br>
+https://github.com/Hunter-DDM/InvTransE-and-InvRotatE  ---> https://arxiv.org/pdf/2009.12765.pdf (Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions)
 
 
 
