@@ -291,4 +291,5 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Graph Neural Fake News Detection with External Knowledge  | https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection  | https://aclanthology.org/2021.acl-long.62.pdf | TBD |
 | Positional Encoder Graph Neural Networks for Geographic Data  | https://github.com/konstantinklemmer/pe-gnn | https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for | TBD |
 | Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE | https://arxiv.org/pdf/2009.12765.pdf  | TBD |
+| Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | https://github.com/yulun-rayn/dgapn | https://arxiv.org/pdf/2106.02190.pdf  | TBD |
 
