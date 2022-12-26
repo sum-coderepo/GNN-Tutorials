@@ -11,12 +11,7 @@ https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 https://towardsdatascience.com/into-the-transformer-5ad892e0cee -- Understand Dimensions in Transformers  </br>
 
 
-## <ins>Papers</ins> </br>
-https://github.com/thunlp/GNNPapers</br>
-https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/ </br>
-https://arxiv.org/pdf/1702.06106.pdf </br>
-https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
-https://aclanthology.org/2021.acl-long.62.pdf -- Graph Neural Fake News Detection with External Knowledge  </br>
+
 
 
 
@@ -278,6 +273,12 @@ https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for --
 
   
 
+## <ins>Research Papers</ins> </br>
+https://github.com/thunlp/GNNPapers</br>
+https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/review/ </br>
+https://arxiv.org/pdf/1702.06106.pdf </br>
+https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
+https://aclanthology.org/2021.acl-long.62.pdf -- Graph Neural Fake News Detection with External Knowledge  </br>
 
 
 
