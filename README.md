@@ -297,7 +297,7 @@ ________________________________________________________________________________
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
 
