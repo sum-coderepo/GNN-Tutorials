@@ -248,7 +248,7 @@ https://github.com/chenxwh/fake-news-detection </br>
 https://arxiv.org/abs/2007.03316 GNN with Continual Learning for Fake News Detection from Social Media  </br>
 https://github.com/MysteryVaibhav/RWR-GAE
 
-### MultiModal
+### <ins> MultiModal </ins>
 
 #### Github
 https://github.com/iiscleap/multimodal_emotion_recognition </br>
