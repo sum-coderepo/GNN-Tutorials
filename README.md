@@ -296,4 +296,7 @@ https://github.com/Hunter-DDM/InvTransE-and-InvRotatE  ---> https://arxiv.org/pd
 | Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | https://arxiv.org/pdf/2006.14002.pdf     | TBD |
 | NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | https://github.com/QData/LaMP       | https://arxiv.org/pdf/1904.08049.pdf      | TBD |
 | MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN | https://arxiv.org/abs/2002.01680 | TBD |
+| Graph Neural Fake News Detection with External Knowledge  | https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection  | https://aclanthology.org/2021.acl-long.62.pdf | TBD |
+| Positional Encoder Graph Neural Networks for Geographic Data  | https://github.com/konstantinklemmer/pe-gnn | https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for | TBD |
+| Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE | https://arxiv.org/pdf/2009.12765.pdf  | TBD |
 
