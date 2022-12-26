@@ -292,4 +292,5 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Positional Encoder Graph Neural Networks for Geographic Data  | https://github.com/konstantinklemmer/pe-gnn | https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for | TBD |
 | Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE | https://arxiv.org/pdf/2009.12765.pdf  | TBD |
 | Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | https://github.com/yulun-rayn/dgapn | https://arxiv.org/pdf/2106.02190.pdf  | TBD |
+| DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | https://dl.acm.org/doi/abs/10.1145/3459637.3482424  | TBD |
 
