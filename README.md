@@ -288,12 +288,8 @@ https://github.com/cynricfu/MAGNN ----> https://arxiv.org/abs/2002.01680 (MAGNN:
 https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection ---> https://aclanthology.org/2021.acl-long.62.pdf (Graph Neural Fake News Detection with External Knowledge)  </br>
 https://github.com/konstantinklemmer/pe-gnn  ---> https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for (Positional Encoder Graph Neural Networks for Geographic Data)  </br>
 https://github.com/Hunter-DDM/InvTransE-and-InvRotatE  ---> https://arxiv.org/pdf/2009.12765.pdf (Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions)
-_________________________________________________________________________________________________________________________________________________
-|           Research Paper           |            Github                                           |              Links                         |
-_________________________________________________________________________________________________________________________________________________
-|Bi-Level Graph Neural Networks for  | https://github.com/codeKgu/BiLevel-Graph-Neural-Network     |  https://arxiv.org/pdf/2006.14002.pdf      |
-|Drug-Drug Interaction Prediction    |                                                             |                                            |                       _________________________________________________________________________________________________________________________________________________            |
-|                                    |
+
+
 
 | Title | Github   | Link | Genre |
 | :---         |     :---:      |          ---: |          ---: |
