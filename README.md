@@ -295,9 +295,9 @@ ________________________________________________________________________________
 |Drug-Drug Interaction Prediction    |                                                             |                                            |                       _________________________________________________________________________________________________________________________________________________            |
 |                                    |
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Title | Github   | Link |
 | :---         |     :---:      |          ---: |
-| Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | git status     | git status    |
+| Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | https://arxiv.org/pdf/2006.14002.pdf     |
 | git diff     | git diff       | git diff      |
 
 
