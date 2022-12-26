@@ -295,5 +295,5 @@ https://github.com/Hunter-DDM/InvTransE-and-InvRotatE  ---> https://arxiv.org/pd
 | :---              |     :---:           |          ---:       |          ---:       |
 | Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | https://arxiv.org/pdf/2006.14002.pdf     | TBD |
 | NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | https://github.com/QData/LaMP       | https://arxiv.org/pdf/1904.08049.pdf      | TBD |
-
+| MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN | https://arxiv.org/abs/2002.01680 | TBD |
 
