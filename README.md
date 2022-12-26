@@ -279,9 +279,11 @@ https://paperswithcode.com/paper/an-attention-based-deep-net-for-learning-to/rev
 https://arxiv.org/pdf/1702.06106.pdf </br>
 https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
 https://aclanthology.org/2021.acl-long.62.pdf -- Graph Neural Fake News Detection with External Knowledge  </br>
+
+
 https://github.com/codeKgu/BiLevel-Graph-Neural-Network ----> https://arxiv.org/pdf/2006.14002.pdf (Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction) 
 https://github.com/QData/LaMP ----> https://arxiv.org/pdf/1904.08049.pdf (NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION)
-
+https://github.com/cynricfu/MAGNN https://arxiv.org/abs/2002.01680 (MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding)
 
 
 
@@ -293,6 +295,7 @@ https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-
 https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b </br>
 https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
 https://arxiv.org/pdf/2107.10648.pdf -- DEAP-FAKED: Knowledge Graph based Approach for Fake News Detection </br>
+
 
 https://aclanthology.org/2021.repl4nlp-1.10.pdf -- Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions </br>
 https://www.hindawi.com/journals/complexity/2020/3857871/ -- A Tri-Attention Neural Network Model-BasedRecommendation </br>
