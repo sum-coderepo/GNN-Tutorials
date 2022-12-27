@@ -293,4 +293,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE | https://arxiv.org/pdf/2009.12765.pdf  | TBD |
 | Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | https://github.com/yulun-rayn/dgapn | https://arxiv.org/pdf/2106.02190.pdf  | TBD |
 | DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | https://dl.acm.org/doi/abs/10.1145/3459637.3482424  | TBD |
-
+| Fine-grained Fact Verification with Kernel Graph Attention Network  | https://github.com/thunlp/KernelGAT | https://aclanthology.org/2020.acl-main.655.pdf  | TBD |
