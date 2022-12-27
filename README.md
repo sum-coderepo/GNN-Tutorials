@@ -284,15 +284,15 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 
 
 | Title       |       Github        |     Link        | Genre        |
-| :---              |     :---:           |          ---:       |          ---:       |
-| Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | https://arxiv.org/pdf/2006.14002.pdf     | TBD |
-| NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | https://github.com/QData/LaMP       | https://arxiv.org/pdf/1904.08049.pdf      | TBD |
-| MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN | https://arxiv.org/abs/2002.01680 | TBD |
-| Graph Neural Fake News Detection with External Knowledge  | https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection  | https://aclanthology.org/2021.acl-long.62.pdf | TBD |
-| Positional Encoder Graph Neural Networks for Geographic Data  | https://github.com/konstantinklemmer/pe-gnn | https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for | TBD |
-| Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE | https://arxiv.org/pdf/2009.12765.pdf  | TBD |
-| Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | https://github.com/yulun-rayn/dgapn | https://arxiv.org/pdf/2106.02190.pdf  | TBD |
-| DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | https://dl.acm.org/doi/abs/10.1145/3459637.3482424  | TBD |
-| Fine-grained Fact Verification with Kernel Graph Attention Network  | https://github.com/thunlp/KernelGAT | https://aclanthology.org/2020.acl-main.655.pdf  | TBD |
-| Transferable Graph Generation for Zero-shot and Few-shot Learning | https://github.com/zcrwind/tgg-pytorch  | https://arxiv.org/pdf/1908.11503.pdf  | TBD |
+| :---              |     :---:           |          :---:       |          ---:       |
+| Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | [link](https://arxiv.org/pdf/2006.14002.pdf)     | TBD |
+| NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | https://github.com/QData/LaMP       | [link](https://arxiv.org/pdf/1904.08049.pdf)      | TBD |
+| MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN | [link](https://arxiv.org/abs/2002.01680) | TBD |
+| Graph Neural Fake News Detection with External Knowledge  | https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection  | [link](https://aclanthology.org/2021.acl-long.62.pdf) | TBD |
+| Positional Encoder Graph Neural Networks for Geographic Data  | https://github.com/konstantinklemmer/pe-gnn | [link](https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for) | TBD |
+| Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE |[link](https://arxiv.org/pdf/2009.12765.pdf) | TBD |
+| Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | https://github.com/yulun-rayn/dgapn | [link](https://arxiv.org/pdf/2106.02190.pdf)  | TBD |
+| DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | [link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424) | TBD |
+| Fine-grained Fact Verification with Kernel Graph Attention Network  | https://github.com/thunlp/KernelGAT | [link](https://aclanthology.org/2020.acl-main.655.pdf)  | TBD |
+| Transferable Graph Generation for Zero-shot and Few-shot Learning | https://github.com/zcrwind/tgg-pytorch  | [link](https://arxiv.org/pdf/1908.11503.pdf)  | TBD |
 | Signed Graph Attention Networks | https://github.com/huangjunjie-cs/SiGAT  | [link](https://arxiv.org/pdf/1906.10958.pdf) | TBD |
