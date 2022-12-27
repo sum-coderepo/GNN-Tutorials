@@ -29,6 +29,7 @@ https://github.com/geopanag/pandemic_tgnn Transfer Graph Neural Networks for Pan
 https://github.com/dawnranger/pytorch-AGNN </br>
 https://github.com/zfjsail/gae-pytorch/tree/c0b95cac8eb2928d0b5d6d65fee938fe97f60262 Graph Auto-Encoder in PyTorch </br>
 https://github.com/MysteryVaibhav/fake_news_semantics -- fake news detection </br>
+https://github.com/benedekrozemberczki </br>
 
 
 
@@ -297,3 +298,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Transferable Graph Generation for Zero-shot and Few-shot Learning | https://github.com/zcrwind/tgg-pytorch  | [link](https://arxiv.org/pdf/1908.11503.pdf)  | TBD |
 | Signed Graph Attention Networks | https://github.com/huangjunjie-cs/SiGAT  | [link](https://arxiv.org/pdf/1906.10958.pdf) | TBD |
 | Graph Attention Auto-Encoders | https://github.com/amin-salehi/GATE  | [link](https://arxiv.org/pdf/1905.10715.pdf)  | TBD |
+| Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM  | http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf | TBD |
