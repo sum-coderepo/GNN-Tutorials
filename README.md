@@ -295,4 +295,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | https://dl.acm.org/doi/abs/10.1145/3459637.3482424  | TBD |
 | Fine-grained Fact Verification with Kernel Graph Attention Network  | https://github.com/thunlp/KernelGAT | https://aclanthology.org/2020.acl-main.655.pdf  | TBD |
 | Transferable Graph Generation for Zero-shot and Few-shot Learning | https://github.com/zcrwind/tgg-pytorch  | https://arxiv.org/pdf/1908.11503.pdf  | TBD |
-| Signed Graph Attention Networks | https://github.com/huangjunjie-cs/SiGAT  | [link] (https://arxiv.org/pdf/1906.10958.pdf) | TBD |
+| Signed Graph Attention Networks | https://github.com/huangjunjie-cs/SiGAT  | [link](https://arxiv.org/pdf/1906.10958.pdf) | TBD |
