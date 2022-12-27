@@ -301,3 +301,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM  | [link](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf) | TBD |
 | How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision  | https://github.com/dongkwan-kim/SuperGAT  | [link](https://openreview.net/pdf?id=Wi5KUNlqWty) | TBD |
 | Sparse Graph Attention Networks | https://github.com/Yangyeeee/SGAT | [link](https://arxiv.org/pdf/1912.00552.pdf)  | TBD |
+| Social Attention: Modeling Attention in Human Crowds  | https://github.com/huang-xx/STGAT/tree/master/STGAT | [link](https://arxiv.org/pdf/1710.04689.pdf)  | TBD |
