@@ -302,3 +302,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision  | https://github.com/dongkwan-kim/SuperGAT  | [link](https://openreview.net/pdf?id=Wi5KUNlqWty) | TBD |
 | Sparse Graph Attention Networks | https://github.com/Yangyeeee/SGAT | [link](https://arxiv.org/pdf/1912.00552.pdf)  | TBD |
 | Social Attention: Modeling Attention in Human Crowds  | https://github.com/huang-xx/STGAT/tree/master/STGAT | [link](https://arxiv.org/pdf/1710.04689.pdf)  | TBD |
+| Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks  | https://github.com/ujeong1/IEEEBigdata22_HGFND  | [link](https://arxiv.org/pdf/2212.12621.pdf)  | TBD |
