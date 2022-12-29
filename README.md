@@ -15,7 +15,7 @@ https://towardsdatascience.com/into-the-transformer-5ad892e0cee -- Understand Di
 ## <ins>datasets</ins> </br>
 https://paperswithcode.com/datasets </br>
 
-## <ins> Research Paper Link </br>
+## <ins> Research Paper Links readme </br>
 
 https://github.com/wusw14/GNN-in-RS </br>
 https://github.com/thunlp/GNNPapers -- GNN Papers </br>
