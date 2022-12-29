@@ -22,6 +22,7 @@ https://github.com/thunlp/GNNPapers -- GNN Papers </br>
 https://github.com/JockWang/Graph-in-Recommendation-Systems </br>
 https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems </br>
 https://github.com/hhaji/Deep-Learning </br>
+https://github.com/JockWang/Graph-in-Recommendation-Systems </br>
 
 
 
