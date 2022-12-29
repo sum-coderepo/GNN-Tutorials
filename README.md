@@ -20,6 +20,7 @@ https://paperswithcode.com/datasets </br>
 https://github.com/wusw14/GNN-in-RS </br>
 https://github.com/thunlp/GNNPapers -- GNN Papers </br>
 https://github.com/JockWang/Graph-in-Recommendation-Systems </br>
+https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems </br>
 
 
 
