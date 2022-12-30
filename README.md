@@ -320,3 +320,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Social Attention: Modeling Attention in Human Crowds  | https://github.com/huang-xx/STGAT/tree/master/STGAT | [link](https://arxiv.org/pdf/1710.04689.pdf)  | TBD |
 | Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks  | https://github.com/ujeong1/IEEEBigdata22_HGFND  | [link](https://arxiv.org/pdf/2212.12621.pdf)  | TBD |
 | ESA: Entity Summarization with Attention  | https://github.com/djwei96/ESA  | [link](https://arxiv.org/pdf/1905.10625.pdf)  | TBD |
+| BertGCN: Transductive Text Classification by Combining GCN and BERT | https://github.com/ZeroRin/BertGCN  | [link](https://github.com/ZeroRin/BertGCN)  | TBD |
