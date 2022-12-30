@@ -233,6 +233,7 @@ https://github.com/zfjsail/gae-pytorch </br>
 #### Transformer
 http://nlp.seas.harvard.edu/2018/04/03/attention.html </br>
 https://towardsdatascience.com/into-the-transformer-5ad892e0cee </br>
+https://peterbloem.nl/blog/transformers --- [github](https://github.com/pbloem/former)
 
 #### Github
 
