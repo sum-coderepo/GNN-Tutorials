@@ -34,7 +34,7 @@ https://github.com/JockWang/Graph-in-Recommendation-Systems </br>
 
 https://github.com/mims-harvard/graphml-tutorials </br>
 https://github.com/sum-coderepo/Graph-Machine-Learning/tree/main/Graph-Machine-Learning-%20PacktPublishing </br>
-https://github.com/Atcold/pytorch-Deep-Learning -- Educational </br>
+https://github.com/Atcold/pytorch-Deep-Learning https://atcold.github.io/pytorch-Deep-Learning/ -- Educational </br>
 https://github.com/deepmind/educational Deepmind educational </br>
 https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials </br>
 https://github.com/eemlcommunity/PracticalSessions2021 </br>
