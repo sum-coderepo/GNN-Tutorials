@@ -329,3 +329,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment | https://github.com/zhurboo/RAGA | [link](https://arxiv.org/pdf/2103.00791.pdf)  | TBD |
 | Graph Attention Multi-Layer Perceptron  | https://github.com/zwt233/GAMLP | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  | TBD |
 | Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | https://github.com/zhongpeixiang/KET  | [link](https://aclanthology.org/D19-1016.pdf) | TBD |
+| Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | https://github.com/deepakn97/relationPrediction | [link](https://arxiv.org/abs/1906.01195)  | TBD |
