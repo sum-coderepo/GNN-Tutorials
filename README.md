@@ -9,6 +9,7 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks  </br>
 https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
 https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 https://towardsdatascience.com/into-the-transformer-5ad892e0cee -- Understand Dimensions in Transformers  </br>
+https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list</br>
 
 
 
