@@ -231,7 +231,8 @@ https://github.com/zfjsail/gae-pytorch </br>
 ### <ins> Graph Transformer</ins>
 
 #### Transformer
-http://nlp.seas.harvard.edu/2018/04/03/attention.html
+http://nlp.seas.harvard.edu/2018/04/03/attention.html </br>
+https://towardsdatascience.com/into-the-transformer-5ad892e0cee </br>
 
 #### Github
 
