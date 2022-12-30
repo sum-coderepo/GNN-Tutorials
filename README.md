@@ -230,6 +230,9 @@ https://github.com/zfjsail/gae-pytorch </br>
 
 ### <ins> Graph Transformer</ins>
 
+#### Transformer
+http://nlp.seas.harvard.edu/2018/04/03/attention.html
+
 #### Github
 
 https://github.com/seongjunyun/Graph_Transformer_Networks </br>
@@ -323,3 +326,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | BertGCN: Transductive Text Classification by Combining GCN and BERT | https://github.com/ZeroRin/BertGCN  | [link](https://github.com/ZeroRin/BertGCN)  | TBD |
 | RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment | https://github.com/zhurboo/RAGA | [link](https://arxiv.org/pdf/2103.00791.pdf)  | TBD |
 | Graph Attention Multi-Layer Perceptron  | https://github.com/zwt233/GAMLP | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  | TBD |
+| Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | https://github.com/zhongpeixiang/KET  | [link](https://aclanthology.org/D19-1016.pdf) | TBD |
