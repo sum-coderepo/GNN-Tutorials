@@ -322,3 +322,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | ESA: Entity Summarization with Attention  | https://github.com/djwei96/ESA  | [link](https://arxiv.org/pdf/1905.10625.pdf)  | TBD |
 | BertGCN: Transductive Text Classification by Combining GCN and BERT | https://github.com/ZeroRin/BertGCN  | [link](https://github.com/ZeroRin/BertGCN)  | TBD |
 | RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment | https://github.com/zhurboo/RAGA | [link](https://arxiv.org/pdf/2103.00791.pdf)  | TBD |
+| Graph Attention Multi-Layer Perceptron  | https://github.com/zwt233/GAMLP | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  | TBD |
