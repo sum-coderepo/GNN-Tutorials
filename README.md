@@ -27,6 +27,7 @@ https://github.com/hhaji/Deep-Learning
   2. https://cs.mcgill.ca/~wlh/comp766/index.html
  
 https://github.com/JockWang/Graph-in-Recommendation-Systems </br>
+https://github.com/IndexFziQ/GNN4NLP-Papers </br>
 
 
 
