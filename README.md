@@ -28,6 +28,7 @@ https://github.com/hhaji/Deep-Learning
  
 https://github.com/JockWang/Graph-in-Recommendation-Systems </br>
 https://github.com/IndexFziQ/GNN4NLP-Papers </br>
+https://github.com/labmlai/annotated_deep_learning_paper_implementations </br>
 
 
 
