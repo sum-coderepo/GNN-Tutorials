@@ -8,7 +8,7 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks  </br>
 [LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw) </br>
 https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
 https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
-https://towardsdatascience.com/into-the-transformer-5ad892e0cee -- Understand Dimensions in Transformers  </br>
+
 https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list</br>
 
 
@@ -76,9 +76,15 @@ https://geometricdeeplearning.com/lectures/ </br>
 
 ## <ins> Transformer </ins> :- </br>
 ### Blogs
+
+Transformers
 1. [Part 1- overview-of-functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 2. [Part 2- how-it-works-step-by-step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
 3. [Part 3- multi-head-attention-deep-dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+
+Into the Transformers (https://towardsdatascience.com/into-the-transformer-5ad892e0cee) </br>
+
+
 
 ### Youtube
 1. [Attention Models](https://www.youtube.com/playlist?list=PLgtf4d9zHHO8p_zDKstvqvtkv80jhHxoE)
