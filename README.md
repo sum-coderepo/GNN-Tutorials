@@ -24,7 +24,6 @@ https://paperswithcode.com/datasets </br>
 [GNN-Recommender-Systems](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) </br>
 https://github.com/hhaji/Deep-Learning
   1. https://cs.mcgill.ca/~wlh/comp766/index.html
-  2. https://cs.mcgill.ca/~wlh/comp766/index.html
  
 [Graph-in-Recommendation-Systems](https://github.com/JockWang/Graph-in-Recommendation-Systems) </br>
 [GNN4NLP-Papers](https://github.com/IndexFziQ/GNN4NLP-Papers) </br>
