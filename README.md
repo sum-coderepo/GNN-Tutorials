@@ -13,6 +13,7 @@ https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper lis
 
 
 
+
 ## <ins>datasets</ins> </br>
 https://paperswithcode.com/datasets </br>
 
@@ -159,7 +160,9 @@ https://github.com/mtiezzi/torch_gnn -- Wrapper over pytorch GNN </br>
 
 
 
-### <ins>GAT</ins>     
+### <ins>GAT</ins>     </br>
+[GRAPH ATTENTION NETWORKS Petar Velickovic](https://arxiv.org/pdf/1710.10903.pdf) </br>
+
 #### github
 https://github.com/dmlc/dgl/tree/master/tutorials  </br>
 https://github.com/raunakkmr/Graph-Attention-Networks  </br>
@@ -364,3 +367,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | https://github.com/zhongpeixiang/KET  | [link](https://aclanthology.org/D19-1016.pdf) | TBD |
 | Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | https://github.com/deepakn97/relationPrediction | [link](https://arxiv.org/abs/1906.01195)  | TBD |
 | Graph Neural Networks for Social Recommendation | https://github.com/wenqifan03/GraphRec-WWW19  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
+
