@@ -64,9 +64,9 @@ https://geometricdeeplearning.com/lectures/ </br>
 [Antonio Longa Pytorch Geometric tutorial](https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF)  </br>
 [Antonio Longa Advanced PyTorch Geometric](https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud&t=3) </br>
 [DeepFindr small videos on GNN](https://www.youtube.com/c/DeepFindr/videos) </br>
-https://www.youtube.com/watch?v=zDFUu4ggVTg&t=140 Graph Embeddings and PyTorch-BigGraph </br>
-https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3 AMMI Geometric Deep Learning Course (2021)  </br>
-https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C AMMI Geometric Deep Learning Course (2022)  </br>
+[Graph Embeddings and PyTorch-BigGraph](https://www.youtube.com/watch?v=zDFUu4ggVTg&t=140)</br>
+[AMMI Geometric Deep Learning Course (2021)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) </br>
+[AMMI Geometric Deep Learning Course (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)  </br>
 
 
 ## <ins> BERT </ins> :- </br>
