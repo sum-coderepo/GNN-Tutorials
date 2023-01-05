@@ -69,6 +69,14 @@ https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3 AMMI Ge
 https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C AMMI Geometric Deep Learning Course (2022)  </br>
 
 
+##<ins> BERT </ins> :- </br>
+
+1. https://towardsdatascience.com/masked-language-modelling-with-bert-7d49793e5d2c
+2. https://analyticsindiamag.com/a-complete-tutorial-on-masked-language-modelling-using-bert/
+3. https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/
+
+
+
 ## <ins>Colab Notebooks</ins>    </br>
 
 https://colab.research.google.com/drive/1wKwdottbWOxTOgwVnaSLRzPAJPDP9z9n#scrollTo=S3VjuByGAx_V </br>
@@ -99,6 +107,10 @@ https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-pr
 https://smartmobilityalgorithms.github.io/book/content/GraphSearchAlgorithms/index.html </br>
 https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
 https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
+
+Anomaly Detection in Ecommerce by GNN:- </br>
+a. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-87516931d38 </br>
+b. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-b4c165b8f08a </br>
 
  
 
