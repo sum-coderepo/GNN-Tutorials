@@ -119,6 +119,8 @@ https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-pr
 https://smartmobilityalgorithms.github.io/book/content/GraphSearchAlgorithms/index.html </br>
 https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
 https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
+[Geometric Deep Learning - an overview](https://j.blaszyk.me/geometric-deep-learning-overview/)
+
 
 Anomaly Detection in Ecommerce by GNN:- </br>
 a. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-87516931d38 </br>
