@@ -69,7 +69,7 @@ https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3 AMMI Ge
 https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C AMMI Geometric Deep Learning Course (2022)  </br>
 
 
-##<ins> BERT </ins> :- </br>
+## <ins> BERT </ins> :- </br>
 
 1. https://towardsdatascience.com/masked-language-modelling-with-bert-7d49793e5d2c
 2. https://analyticsindiamag.com/a-complete-tutorial-on-masked-language-modelling-using-bert/
