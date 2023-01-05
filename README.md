@@ -60,7 +60,7 @@ https://wandb.ai/syllogismos </br>
 https://geometricdeeplearning.com/lectures/ </br>
 
 ## <ins>Youtube</ins>   :- </br>
-https://www.youtube.com/watch?v=828rZgV9t1g&t=5 --- PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018 </br>
+[PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018](https://www.youtube.com/watch?v=828rZgV9t1g&t=5 ) </br>
 https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF Antonio Longa Pytorch Geometric tutorial </br>
 https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud&t=3 Antonio Longa Advanced PyTorch Geometric </br>
 https://www.youtube.com/c/DeepFindr/videos DeepFindr small videos on GNN </br>
