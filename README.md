@@ -75,6 +75,15 @@ https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C AMMI Ge
 2. https://analyticsindiamag.com/a-complete-tutorial-on-masked-language-modelling-using-bert/
 3. https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/
 
+## <ins> Transformer </ins> :- </br>
+
+1. [Part 1- overview-of-functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
+2. [Part 2- how-it-works-step-by-step] https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34
+3. [Part 3- multi-head-attention-deep-dive] (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+
+
+
+
 
 
 ## <ins>Colab Notebooks</ins>    </br>
