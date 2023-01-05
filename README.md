@@ -71,9 +71,9 @@ https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C AMMI Ge
 
 ## <ins> BERT </ins> :- </br>
 
-1. https://towardsdatascience.com/masked-language-modelling-with-bert-7d49793e5d2c
-2. https://analyticsindiamag.com/a-complete-tutorial-on-masked-language-modelling-using-bert/
-3. https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/
+1. https://towardsdatascience.com/masked-language-modelling-with-bert-7d49793e5d2c</br>
+2. https://analyticsindiamag.com/a-complete-tutorial-on-masked-language-modelling-using-bert/</br>
+3. https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/</br>
 
 ## <ins> Transformer </ins> :- </br>
 
