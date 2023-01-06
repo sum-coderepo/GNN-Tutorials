@@ -84,6 +84,7 @@ Transformers
 3. [Part 3- multi-head-attention-deep-dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
 Into the Transformers (https://towardsdatascience.com/into-the-transformer-5ad892e0cee) </br>
+[illustrated-guide-to-transformers-step-by-step-explanatio](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
 
 
 
