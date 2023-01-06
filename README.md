@@ -85,7 +85,7 @@ Transformers
 
 [Into the Transformers](https://towardsdatascience.com/into-the-transformer-5ad892e0cee) </br>
 [illustrated-guide-to-transformers-step-by-step-explanatio](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
-
+[transformers-an-overview-of-the-most-novel-ai-architecture](https://towardsdatascience.com/transformers-an-overview-of-the-most-novel-ai-architecture-cdd7961eef84)
 
 
 ### Youtube
