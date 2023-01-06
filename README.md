@@ -79,13 +79,13 @@ https://geometricdeeplearning.com/lectures/ </br>
 ### Blogs
 
 Transformers
-1. [Part 1- overview-of-functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
-2. [Part 2- how-it-works-step-by-step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
-3. [Part 3- multi-head-attention-deep-dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+1. [Part 1- overview-of-functionality](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)</br>
+2. [Part 2- how-it-works-step-by-step](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)</br>
+3. [Part 3- multi-head-attention-deep-dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)</br>
 
 [Into the Transformers](https://towardsdatascience.com/into-the-transformer-5ad892e0cee) </br>
-[illustrated-guide-to-transformers-step-by-step-explanatio](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
-[transformers-an-overview-of-the-most-novel-ai-architecture](https://towardsdatascience.com/transformers-an-overview-of-the-most-novel-ai-architecture-cdd7961eef84)
+[illustrated-guide-to-transformers-step-by-step-explanatio](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)</br>
+[transformers-an-overview-of-the-most-novel-ai-architecture](https://towardsdatascience.com/transformers-an-overview-of-the-most-novel-ai-architecture-cdd7961eef84)</br>
 
 
 ### Youtube
