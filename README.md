@@ -91,8 +91,10 @@ Transformers
 
 ### Implementation
 1. [transformers-from-scratch-in-pytorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
-2. [jsbaan/transformer-from-scratch](https://github.com/jsbaan/transformer-from-scratch)
-3. 
+
+### Github
+1. [jsbaan/transformer-from-scratch](https://github.com/jsbaan/transformer-from-scratch)
+2. [pbloem/former](https://github.com/pbloem/former)
 
 
 ### Youtube
