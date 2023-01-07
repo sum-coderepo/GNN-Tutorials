@@ -87,6 +87,12 @@ Transformers
 [illustrated-guide-to-transformers-step-by-step-explanatio](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)</br>
 [transformers-an-overview-of-the-most-novel-ai-architecture](https://towardsdatascience.com/transformers-an-overview-of-the-most-novel-ai-architecture-cdd7961eef84)</br>
 [illustrated-transformer](https://jalammar.github.io/illustrated-transformer/)
+[7-things-you-didnt-know-about-the-transformer](https://towardsdatascience.com/7-things-you-didnt-know-about-the-transformer-a70d93ced6b2)
+
+### Implementation
+1. [transformers-from-scratch-in-pytorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
+2. [jsbaan/transformer-from-scratch](https://github.com/jsbaan/transformer-from-scratch)
+3. 
 
 
 ### Youtube
