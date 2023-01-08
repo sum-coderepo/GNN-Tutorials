@@ -9,7 +9,7 @@ https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks  </br>
 https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
 https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 
-https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list</br>
+https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list </br>
 
 
 
@@ -86,8 +86,8 @@ Transformers
 [Into the Transformers](https://towardsdatascience.com/into-the-transformer-5ad892e0cee) </br>
 [illustrated-guide-to-transformers-step-by-step-explanatio](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)</br>
 [transformers-an-overview-of-the-most-novel-ai-architecture](https://towardsdatascience.com/transformers-an-overview-of-the-most-novel-ai-architecture-cdd7961eef84)</br>
-[illustrated-transformer](https://jalammar.github.io/illustrated-transformer/)
-[7-things-you-didnt-know-about-the-transformer](https://towardsdatascience.com/7-things-you-didnt-know-about-the-transformer-a70d93ced6b2)
+[illustrated-transformer](https://jalammar.github.io/illustrated-transformer/) </br>
+[7-things-you-didnt-know-about-the-transformer](https://towardsdatascience.com/7-things-you-didnt-know-about-the-transformer-a70d93ced6b2) </br>
 
 ### Implementation
 1. [transformers-from-scratch-in-pytorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
