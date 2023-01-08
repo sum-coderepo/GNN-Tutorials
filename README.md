@@ -11,6 +11,7 @@ https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 
 https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list </br>
 https://migalkin.github.io/ </br>
+https://mgalkin.medium.com/ </br>
 
 
 
