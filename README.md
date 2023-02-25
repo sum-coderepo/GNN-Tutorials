@@ -252,7 +252,7 @@ https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-atten
 https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
 #### Scaled doct product Attention
-[Scaled Dot Product Attention explained (Transformers)] (https://www.youtube.com/watch?v=pdnm-FHZtvc&list=PLvELbYeZ7GEGeKI4bkR57XuEofp3BcO6r&t=650)
+[Scaled Dot Product Attention explained (Transformers)](https://www.youtube.com/watch?v=pdnm-FHZtvc&list=PLvELbYeZ7GEGeKI4bkR57XuEofp3BcO6r&t=650)
 
 ### <ins>Heterogeneous Graphs</ins>
 https://www.jianshu.com/p/767950b560c4 </br>
