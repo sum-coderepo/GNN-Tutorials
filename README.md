@@ -355,6 +355,14 @@ https://github.com/thunlp/GNNPapers</br>
 https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
 
 
+## <ins>Authors</ins> </br>
+#### Michael Galkin
+1. https://towardsdatascience.com/denoising-diffusion-generative-models-in-graph-ml-c496af5811c5 </br>
+
+
+
+
+
 
 
 | Title       |       Github        |     Link        | Genre        |
