@@ -251,6 +251,9 @@ https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-2
 https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb </br>
 https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
+#### Scaled doct product Attention
+[Scaled Dot Product Attention explained (Transformers)] (https://www.youtube.com/watch?v=pdnm-FHZtvc&list=PLvELbYeZ7GEGeKI4bkR57XuEofp3BcO6r&t=650)
+
 ### <ins>Heterogeneous Graphs</ins>
 https://www.jianshu.com/p/767950b560c4 </br>
 https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
