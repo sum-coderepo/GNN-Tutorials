@@ -347,6 +347,10 @@ https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4 </br>
 https://paperswithcode.com/task/multimodal-deep-learning#datasets </br>
 https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for -- Alzheimer's Disease Diagnosis </br>
 
+
+## <ins>Authors</ins> </br>
+#### Michael Galkin
+1. https://towardsdatascience.com/denoising-diffusion-generative-models-in-graph-ml-c496af5811c5 </br>
   
 
 ## <ins>Research Papers</ins> </br>
@@ -355,9 +359,7 @@ https://github.com/thunlp/GNNPapers</br>
 https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- Representation Learning on Graphs: Methods and Applications </br>
 
 
-## <ins>Authors</ins> </br>
-#### Michael Galkin
-1. https://towardsdatascience.com/denoising-diffusion-generative-models-in-graph-ml-c496af5811c5 </br>
+
 
 
 
