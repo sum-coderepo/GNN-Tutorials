@@ -210,6 +210,7 @@ https://towardsdatascience.com/the-intuition-behind-graph-convolutions-and-messa
 https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb -- For GCN and MessagePassing </br>
 https://tkipf.github.io/graph-convolutional-networks/ -- For GCN and MessagePassing </br>
 https://towardsdatascience.com/introduction-to-message-passing-neural-networks-e670dc103a87 </br>
+https://j.blaszyk.me/tech-blog/geometric-deep-learning-overview/ </br>
 
 ### <ins>Graph Sage</ins> 
 https://towardsdatascience.com/an-intuitive-explanation-of-graphsage-6df9437ee64f </br>
