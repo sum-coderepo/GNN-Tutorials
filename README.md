@@ -349,7 +349,7 @@ https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for --
 
 
 ## <ins>Authors</ins> </br>
-#### Michael Galkin - [medium](https://mgalkin.medium.com/) [github](https://github.com/migalkin?tab=repositories)
+#### Michael Galkin - [medium](https://mgalkin.medium.com/) [github](https://github.com/migalkin?tab=repositories) [https://migalkin.github.io/](https://migalkin.github.io/)
 1. https://towardsdatascience.com/denoising-diffusion-generative-models-in-graph-ml-c496af5811c5 </br>
 2. https://medium.com/swlh/machine-learning-on-knowledge-graphs-neurips-2020-6ef2da78f529 </br>
 3. https://mgalkin.medium.com/knowledge-graphs-iclr-2021-6e0b52c80686 </br>
