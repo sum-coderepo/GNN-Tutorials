@@ -91,6 +91,8 @@ Transformers
 [transformers-an-overview-of-the-most-novel-ai-architecture](https://towardsdatascience.com/transformers-an-overview-of-the-most-novel-ai-architecture-cdd7961eef84)</br>
 [illustrated-transformer](https://jalammar.github.io/illustrated-transformer/) </br>
 [7-things-you-didnt-know-about-the-transformer](https://towardsdatascience.com/7-things-you-didnt-know-about-the-transformer-a70d93ced6b2) </br>
+[10 Things You Need to Know About BERT and the Transformer Architecture](https://neptune.ai/blog/bert-and-the-transformer-architecture) </br>
+[Beautifully Illustrated: NLP Models from RNN to Transformer](https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
 
 ### Implementation
 1. [transformers-from-scratch-in-pytorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
