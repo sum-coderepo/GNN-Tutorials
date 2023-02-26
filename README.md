@@ -69,6 +69,7 @@ https://geometricdeeplearning.com/lectures/ </br>
 [Graph Embeddings and PyTorch-BigGraph](https://www.youtube.com/watch?v=zDFUu4ggVTg&t=140)</br>
 [AMMI Geometric Deep Learning Course (2021)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) </br>
 [AMMI Geometric Deep Learning Course (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)  </br>
+[Learning on Graphs Conference](https://www.youtube.com/@learningongraphs)
 
 
 ## <ins> BERT </ins> :- </br>
