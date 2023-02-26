@@ -255,6 +255,9 @@ https://medium.com/intel-student-ambassadors/implementing-attention-models-in-py
 #### Scaled doct product Attention
 [YouTube - Scaled Dot Product Attention explained (Transformers)](https://www.youtube.com/watch?v=pdnm-FHZtvc&list=PLvELbYeZ7GEGeKI4bkR57XuEofp3BcO6r&t=650)
 
+#### Self Attention
+https://prog.world/introduction-to-graph-neural-networks-with-a-self-attention-mechanism-using-pytorch-geometric-as-an-example/
+
 ### <ins>Heterogeneous Graphs</ins>
 https://www.jianshu.com/p/767950b560c4 </br>
 https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
