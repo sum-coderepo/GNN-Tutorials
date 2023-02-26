@@ -49,7 +49,7 @@ https://github.com/dawnranger/pytorch-AGNN </br>
 https://github.com/zfjsail/gae-pytorch/tree/c0b95cac8eb2928d0b5d6d65fee938fe97f60262 Graph Auto-Encoder in PyTorch </br>
 https://github.com/MysteryVaibhav/fake_news_semantics -- fake news detection </br>
 https://github.com/benedekrozemberczki </br>
-
+https://github.com/benedekrozemberczki/pytorch_geometric_temporal
 
 
 
@@ -163,6 +163,7 @@ https://david010.medium.com/graph-neural-networks-3346c6fe7553 </br>
 https://distill.pub/2021/gnn-intro/ </br>
 https://distill.pub/2021/understanding-gnns/ </br>
 https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856 </br>
+https://arshren.medium.com/different-graph-neural-network-implementation-using-pytorch-geometric-23f5bf2f3e9f </br>
 
 
 #### github
@@ -365,6 +366,9 @@ https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for --
 8. https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c  </br>
 9. https://towardsdatascience.com/graph-ml-in-2023-the-state-of-affairs-1ba920cb9232 </br>
   
+
+## Explainability
+https://arshren.medium.com/explainability-of-graph-neural-network-52e9dd43cf76
 
 ## <ins>Research Papers</ins> </br>
 https://github.com/thunlp/GNNPapers</br>
