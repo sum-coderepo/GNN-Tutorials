@@ -249,7 +249,8 @@ https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-2
 ### <ins>Attention</ins>  
 #### Blogs
 https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb </br>
-https://github.com/cmhungsteve/Awesome-Transformer-Attention
+https://github.com/cmhungsteve/Awesome-Transformer-Attention </br>
+https://medium.com/intel-student-ambassadors/implementing-attention-models-in-pytorch-f947034b3e66 </br>
 
 #### Scaled doct product Attention
 [YouTube - Scaled Dot Product Attention explained (Transformers)](https://www.youtube.com/watch?v=pdnm-FHZtvc&list=PLvELbYeZ7GEGeKI4bkR57XuEofp3BcO6r&t=650)
