@@ -370,6 +370,7 @@ https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for --
 8. https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c  </br>
 9. https://towardsdatascience.com/graph-ml-in-2023-the-state-of-affairs-1ba920cb9232 </br>
   
+#### tomaz bratanic [medium](https://bratanic-tomaz.medium.com/) [github](https://github.com/tomasonjo?tab=repositories) 
 
 ## Explainability
 https://arshren.medium.com/explainability-of-graph-neural-network-52e9dd43cf76
