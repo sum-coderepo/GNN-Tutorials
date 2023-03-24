@@ -359,7 +359,7 @@ https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for --
 
 
 ## <ins>Authors</ins> </br>
-#### Michael Galkin - [medium](https://mgalkin.medium.com/) [github](https://github.com/migalkin?tab=repositories) [https://migalkin.github.io/](https://migalkin.github.io/)
+#### 1. Michael Galkin - [medium](https://mgalkin.medium.com/) [github](https://github.com/migalkin?tab=repositories) [https://migalkin.github.io/](https://migalkin.github.io/)
 1. https://towardsdatascience.com/denoising-diffusion-generative-models-in-graph-ml-c496af5811c5 </br>
 2. https://medium.com/swlh/machine-learning-on-knowledge-graphs-neurips-2020-6ef2da78f529 </br>
 3. https://mgalkin.medium.com/knowledge-graphs-iclr-2021-6e0b52c80686 </br>
@@ -370,7 +370,7 @@ https://paperswithcode.com/paper/multimodal-attention-based-deep-learning-for --
 8. https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c  </br>
 9. https://towardsdatascience.com/graph-ml-in-2023-the-state-of-affairs-1ba920cb9232 </br>
   
-#### tomaz bratanic [medium](https://bratanic-tomaz.medium.com/) [github](https://github.com/tomasonjo?tab=repositories) 
+#### 2. Tomaz bratanic [medium](https://bratanic-tomaz.medium.com/) [github](https://github.com/tomasonjo?tab=repositories) 
 
 ## Explainability
 https://arshren.medium.com/explainability-of-graph-neural-network-52e9dd43cf76
