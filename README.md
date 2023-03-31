@@ -12,6 +12,10 @@ Created to learn Graph Neural Networks</br>
 6. https://github.com/pyg-team/pytorch_geometric
 
 
+## <ins>Some Open Source AI Libraries/Projects</ins> </br>
+
+https://github.com/aymericdamien/TopDeepLearning
+
 
 
 ## Links
