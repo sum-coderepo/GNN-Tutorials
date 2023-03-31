@@ -10,6 +10,7 @@ Created to learn Graph Neural Networks</br>
 4. https://github.com/fastai/fastai
 5. https://github.com/Lightning-AI/lightning
 6. https://github.com/pyg-team/pytorch_geometric
+7. https://github.com/deepchem/deepchem
 
 
 ## <ins>Repos listing links</ins> </br>
