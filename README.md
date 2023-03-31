@@ -6,12 +6,17 @@ Created to learn Graph Neural Networks</br>
 
 1. https://github.com/huggingface/transformers
 2. https://github.com/dmlc/dgl
+3. https://github.com/microsoft/DeepSpeed
+4. https://github.com/fastai/fastai
+5. https://github.com/Lightning-AI/lightning
+6. https://github.com/pyg-team/pytorch_geometric
 
 
 
 
 ## Links
 https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks  </br>
+https://github.com/bharathgs/Awesome-pytorch-list </br>
 [LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw) </br>
 https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
 https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
