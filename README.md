@@ -5,6 +5,7 @@ Created to learn Graph Neural Networks</br>
 ## <ins>Some Open Source AI Libraries/Projects</ins> </br>
 
 1. https://github.com/huggingface/transformers
+2. https://github.com/dmlc/dgl
 
 
 
