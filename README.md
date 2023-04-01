@@ -12,6 +12,11 @@ Created to learn Graph Neural Networks</br>
 6. https://github.com/pyg-team/pytorch_geometric
 7. https://github.com/deepchem/deepchem
 
+### From Twitter </br>
+1. https://github.com/twitter/the-algorithm
+2. https://github.com/twitter/util
+3. https://github.com/twitter/the-algorithm-ml
+
 
 ## <ins>Repos listing links</ins> </br>
 
