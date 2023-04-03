@@ -37,7 +37,8 @@ https://blog.paperspace.com/geometric-deep-learning-framework-comparison/ </br>
 https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library </br>
 
 
-
+## Reinforcement Learning </br>
+https://huggingface.co/deep-rl-course/unit0/introduction
 
 
 ## <ins>datasets</ins> </br>
