@@ -84,6 +84,7 @@ https://github.com/benedekrozemberczki/pytorch_geometric_temporal
 ## <ins>Courses</ins> 
 https://wandb.ai/syllogismos </br>
 https://geometricdeeplearning.com/lectures/ </br>
+https://gnn.seas.upenn.edu/ https://www.youtube.com/@alelabalelab5337/playlists </br>
 
 ## <ins>Youtube</ins>   :- </br>
 [PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018](https://www.youtube.com/watch?v=828rZgV9t1g&t=5 ) </br>
