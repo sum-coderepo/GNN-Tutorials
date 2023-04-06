@@ -46,16 +46,16 @@ https://paperswithcode.com/datasets </br>
 
 ## <ins> Research Paper Links readme </br>
 
-[GNN-in-RS](https://github.com/wusw14/GNN-in-RS) </br>
-[GNNPapers thunlp](https://github.com/thunlp/GNNPapers) </br>
-[Graph-in-Recommendation-Systems JockWang](https://github.com/JockWang/Graph-in-Recommendation-Systems) </br>
-[GNN-Recommender-Systems tsinghua-fib-lab](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) </br>
+[GNN-in-RS-wusw14](https://github.com/wusw14/GNN-in-RS) </br>
+[GNNPapers-thunlp](https://github.com/thunlp/GNNPapers) </br>
+[Graph-in-Recommendation-Systems-JockWang](https://github.com/JockWang/Graph-in-Recommendation-Systems) </br>
+[GNN-Recommender-Systems-tsinghua-fib-lab](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) </br>
 https://github.com/hhaji/Deep-Learning
   1. https://cs.mcgill.ca/~wlh/comp766/index.html
 
-[GNN4NLP-Papers IndexFziQ](https://github.com/IndexFziQ/GNN4NLP-Papers) </br>
-[annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) </br>
-[Recommendation System Paper List tangxyw git](https://github.com/tangxyw/RecSysPapers)
+[GNN4NLP-Papers-IndexFziQ](https://github.com/IndexFziQ/GNN4NLP-Papers) </br>
+[annotated_deep_learning_paper_implementations-labmlai](https://github.com/labmlai/annotated_deep_learning_paper_implementations) </br>
+[Recommendation System Paper List-tangxyw git](https://github.com/tangxyw/RecSysPapers)
 
 
 
