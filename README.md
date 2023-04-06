@@ -22,6 +22,7 @@ Created to learn Graph Neural Networks</br>
 
 1. https://github.com/aymericdamien/TopDeepLearning
 2. https://github.com/bharathgs/Awesome-pytorch-list
+3. https://github.com/DeepGraphLearning/LiteratureDL4Graph
 
 
 
