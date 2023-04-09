@@ -348,6 +348,10 @@ https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dg
 #### Research Papers on Knowledge Graph
 https://arxiv.org/pdf/2004.14171.pdf
 
+
+#### List of Research Papers on Knowledge Graph
+https://github.com/totogo/awesome-knowledge-graph
+
 ### Fake News Detection
 
 https://github.com/shiivangii/SpotFake </br>
