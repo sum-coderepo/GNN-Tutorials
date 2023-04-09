@@ -350,7 +350,9 @@ https://arxiv.org/pdf/2004.14171.pdf
 
 
 #### List of Research Papers on Knowledge Graph
-https://github.com/totogo/awesome-knowledge-graph
+1. https://github.com/totogo/awesome-knowledge-graph
+2. https://github.com/sum-coderepo/Knowledge-Graph-Tutorials-and-Papers
+
 
 ### Fake News Detection
 
