@@ -351,7 +351,8 @@ https://arxiv.org/pdf/2004.14171.pdf
 
 #### List of Research Papers on Knowledge Graph
 1. https://github.com/totogo/awesome-knowledge-graph
-2. https://github.com/sum-coderepo/Knowledge-Graph-Tutorials-and-Papers
+2. https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers
+3.
 
 
 ### Fake News Detection
