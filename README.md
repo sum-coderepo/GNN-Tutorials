@@ -37,6 +37,12 @@ https://blog.paperspace.com/geometric-deep-learning-framework-comparison/ </br>
 https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library </br>
 
 
+
+## Blogs
+
+### Link Prediction
+#### 1. https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70
+
 ## <ins> Reinforcement Learning </ins>  </br>
 https://huggingface.co/deep-rl-course/unit0/introduction
 
