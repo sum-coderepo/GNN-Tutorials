@@ -38,7 +38,7 @@ https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-li
 
 
 
-## Blogs
+## <ins>Blogs</ins> </br>
 
 ### Link Prediction
 #### 1. https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70
