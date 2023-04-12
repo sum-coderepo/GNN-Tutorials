@@ -295,12 +295,14 @@ https://medium.com/intel-student-ambassadors/implementing-attention-models-in-py
 https://prog.world/introduction-to-graph-neural-networks-with-a-self-attention-mechanism-using-pytorch-geometric-as-an-example/
 
 ### <ins>Heterogeneous Graphs</ins>
+
+#### Code 
 https://www.jianshu.com/p/767950b560c4 </br>
 https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
 https://lifesci.dgl.ai/_modules/dgllife/model/gnn/gat.html </br>
 https://github.com/dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rst </br>
 https://github.com/dmlc/dgl/tree/master/examples/pytorch/han </br>
-https://github.com/shionhonda/gae-dgl </br>
+[shionhonda/gae-dgl](https://github.com/shionhonda/gae-dgl) </br>
 https://github.com/zfjsail/gae-pytorch </br>
 https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl </br>
 https://github.com/Jhy1993/HAN </br>
