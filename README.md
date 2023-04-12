@@ -40,7 +40,7 @@ https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-li
 
 ## <ins>Blogs</ins> </br>
 
-
+https://huggingface.co/blog/intro-graphml
 
 ## <ins> Reinforcement Learning </ins>  </br>
 https://huggingface.co/deep-rl-course/unit0/introduction
@@ -350,6 +350,7 @@ https://docs.dgl.ai/en/0.9.x/tutorials/models/4_old_wines/7_transformer.html -- 
 
 #### Blogs
 https://towardsdatascience.com/graph-transformer-generalization-of-transformers-to-graphs-ead2448cff8b </br>
+https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c </br>
 
 ### <ins> Knowledge Graph</ins>
 
@@ -363,12 +364,14 @@ https://towardsdatascience.com/graph-transformer-generalization-of-transformers-
 1. https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
 2. https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef </br>
 3. https://medium.com/@amine.dadoun/knowledge-graph-embeddings-101-2cc1ca5db44f
+4. https://towardsdatascience.com/introduction-to-graph-representation-learning-a51c963d8d11
 
 
 #### Blogs
 1. https://medium.com/@amine.dadoun/introduction-to-knowledge-graph-based-recommender-systems-34254efd1960
 2. https://medium.com/@emreeyukseel/a-brief-summary-of-knowledge-graphs-5b9d854235e5
 3. https://medium.com/swlh/text-to-knowledge-graph-683002cde6e0
+4. https://towardsdatascience.com/how-to-build-a-knowledge-graph-with-neo4j-and-transformers-72b9471d6969
 
 
 #### Research Papers on Knowledge Graph
