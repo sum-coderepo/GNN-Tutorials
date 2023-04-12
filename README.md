@@ -49,6 +49,7 @@ Created to learn Graph Neural Networks</br>
 4. https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications </br>
 5. https://blog.paperspace.com/geometric-deep-learning-framework-comparison/ </br>
 6. https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library </br>
+7. https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70
 
 ## <ins> Reinforcement Learning </ins>  </br>
 https://huggingface.co/deep-rl-course/unit0/introduction
