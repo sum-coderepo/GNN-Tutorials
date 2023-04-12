@@ -352,9 +352,14 @@ https://towardsdatascience.com/graph-transformer-generalization-of-transformers-
 3. https://github.com/uma-pi1/kge  </br>
 4. https://github.com/torchkge-team/torchkge  </br>
 
-#### Blogs
+#### Blogs on KGE
 https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
 https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef </br>
+https://medium.com/@amine.dadoun/knowledge-graph-embeddings-101-2cc1ca5db44f
+
+
+#### Blogs
+https://medium.com/@amine.dadoun/introduction-to-knowledge-graph-based-recommender-systems-34254efd1960
 
 
 #### Research Papers on Knowledge Graph
