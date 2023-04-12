@@ -23,26 +23,32 @@ Created to learn Graph Neural Networks</br>
 1. https://github.com/aymericdamien/TopDeepLearning
 2. https://github.com/bharathgs/Awesome-pytorch-list
 3. https://github.com/DeepGraphLearning/LiteratureDL4Graph
+4. https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks  </br>
+5. https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
+6. https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list </br>
 
 
 
 ## Links
-https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks  </br>
-[LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw) </br>
-https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
-https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 
-https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list </br>
-https://blog.paperspace.com/geometric-deep-learning-framework-comparison/ </br>
-https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library </br>
+[LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw) </br>
+
+
+
+
+
+
 
 
 
 ## <ins>Blogs</ins> </br>
 
 1. https://huggingface.co/blog/intro-graphml
-2. https://pub.towardsai.net/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836
-3. https://towardsdatascience.com/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66
+2. https://pub.towardsai.net/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836 </br>
+3. https://towardsdatascience.com/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66 </br>
+4. https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications </br>
+5. https://blog.paperspace.com/geometric-deep-learning-framework-comparison/ </br>
+6. https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library </br>
 
 ## <ins> Reinforcement Learning </ins>  </br>
 https://huggingface.co/deep-rl-course/unit0/introduction
@@ -93,6 +99,8 @@ https://github.com/benedekrozemberczki/pytorch_geometric_temporal
 https://wandb.ai/syllogismos </br>
 https://geometricdeeplearning.com/lectures/ </br>
 https://gnn.seas.upenn.edu/ https://www.youtube.com/@alelabalelab5337/playlists </br>
+https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
+
 
 ## <ins>Youtube</ins>   :- </br>
 [PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018](https://www.youtube.com/watch?v=828rZgV9t1g&t=5 ) </br>
