@@ -368,6 +368,7 @@ https://towardsdatascience.com/graph-transformer-generalization-of-transformers-
 #### Blogs
 1. https://medium.com/@amine.dadoun/introduction-to-knowledge-graph-based-recommender-systems-34254efd1960
 2. https://medium.com/@emreeyukseel/a-brief-summary-of-knowledge-graphs-5b9d854235e5
+3. https://medium.com/swlh/text-to-knowledge-graph-683002cde6e0
 
 
 #### Research Papers on Knowledge Graph
