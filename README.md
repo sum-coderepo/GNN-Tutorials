@@ -307,7 +307,7 @@ https://prog.world/introduction-to-graph-neural-networks-with-a-self-attention-m
 [Jhy1993/HAN](https://github.com/Jhy1993/HAN) </br>
 
 
-
+#### Blogs
 https://www.jianshu.com/p/767950b560c4 </br>
 https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
 https://lifesci.dgl.ai/_modules/dgllife/model/gnn/gat.html </br>
