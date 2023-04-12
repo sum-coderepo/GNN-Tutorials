@@ -297,24 +297,27 @@ https://prog.world/introduction-to-graph-neural-networks-with-a-self-attention-m
 ### <ins>Heterogeneous Graphs</ins>
 
 #### Code 
+
+[ihollywhy/DistillGCN.PyTorch](https://github.com/ihollywhy/DistillGCN.PyTorch) </br>
+[ZZy979/pytorch-tutorial/tree/master/gnn/dgl](https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl) </br>
+[zfjsail/gae-pytorch](https://github.com/zfjsail/gae-pytorch) </br>
+[shionhonda/gae-dgl](https://github.com/shionhonda/gae-dgl) </br>
+[dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rst](https://github.com/dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rst) </br>
+[dmlc/dgl/tree/master/examples/pytorch/han](https://github.com/dmlc/dgl/tree/master/examples/pytorch/han) </br>
+[Jhy1993/HAN](https://github.com/Jhy1993/HAN) </br>
+
+
+
 https://www.jianshu.com/p/767950b560c4 </br>
 https://docs.dgl.ai/generated/dgl.nn.mxnet.conv.GATConv.html </br>
 https://lifesci.dgl.ai/_modules/dgllife/model/gnn/gat.html </br>
-https://github.com/dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rst </br>
-https://github.com/dmlc/dgl/tree/master/examples/pytorch/han </br>
-[shionhonda/gae-dgl](https://github.com/shionhonda/gae-dgl) </br>
-https://github.com/zfjsail/gae-pytorch </br>
-https://github.com/ZZy979/pytorch-tutorial/tree/master/gnn/dgl </br>
-https://github.com/Jhy1993/HAN </br>
 https://chowdera.com/2022/02/202202161012041716.html </br>
 https://docs.dgl.ai/en/0.7.x/tutorials/blitz/4_link_predict.html  Link Prediction DGL </br>
 https://qdmana.com/2021/12/202112300014335298.html#_699 Node classification and regression, Link prediction, Edge classification and regression, Whole graph classification </br>
 https://blog.katastros.com/a?ID=01600-8d070c20-6b1a-4f57-9459-ec545cc6a805 </br>
 https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroGraphConv.html DGL HeteroGraphConv </br>
 https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroEmbedding.html DGL HeteroEmbedding </br>
-https://github.com/ihollywhy/DistillGCN.PyTorch </br>
-https://www.researchgate.net/profile/Xiaoli-Li-20/publication/336996544_Heterogeneous_Graph_Attention_Networks_for_Semi-supervised_Short_Text_Classification/links/60c466ad4585157774cc99c0/Heterogeneous-Graph-Attention-Networks-for-Semi-supervised-Short-Text-Classification.pdf [HGAT: Heterogeneous Graph Attention Networks for
-Semi-supervised Short Text Classification]</br>
+https://www.researchgate.net/profile/Xiaoli-Li-20/publication/336996544_Heterogeneous_Graph_Attention_Networks_for_Semi-supervised_Short_Text_Classification/links/60c466ad4585157774cc99c0/Heterogeneous-Graph-Attention-Networks-for-Semi-supervised-Short-Text-Classification.pdf [HGAT: Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification] </br>
 
 #### Blogs
 1. [pytorch_geometric link-prediction-on-heterogeneous-graphs](https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70) - Link Prediction
