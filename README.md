@@ -40,7 +40,9 @@ https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-li
 
 ## <ins>Blogs</ins> </br>
 
-https://huggingface.co/blog/intro-graphml
+1. https://huggingface.co/blog/intro-graphml
+2. https://pub.towardsai.net/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836
+3. https://towardsdatascience.com/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66
 
 ## <ins> Reinforcement Learning </ins>  </br>
 https://huggingface.co/deep-rl-course/unit0/introduction
