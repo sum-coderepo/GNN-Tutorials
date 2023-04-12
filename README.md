@@ -353,24 +353,24 @@ https://towardsdatascience.com/graph-transformer-generalization-of-transformers-
 4. https://github.com/torchkge-team/torchkge  </br>
 
 #### Blogs on KGE
-https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
-https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef </br>
-https://medium.com/@amine.dadoun/knowledge-graph-embeddings-101-2cc1ca5db44f
+1. https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
+2. https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef </br>
+3. https://medium.com/@amine.dadoun/knowledge-graph-embeddings-101-2cc1ca5db44f
 
 
 #### Blogs
-https://medium.com/@amine.dadoun/introduction-to-knowledge-graph-based-recommender-systems-34254efd1960
+1. https://medium.com/@amine.dadoun/introduction-to-knowledge-graph-based-recommender-systems-34254efd1960
 
 
 #### Research Papers on Knowledge Graph
-https://arxiv.org/pdf/2004.14171.pdf
+1. https://arxiv.org/pdf/2004.14171.pdf
 
 
 #### List of Research Papers on Knowledge Graph
 1. https://github.com/totogo/awesome-knowledge-graph
 2. https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers
 3. https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph
-4. 
+
 
 
 ### Fake News Detection
