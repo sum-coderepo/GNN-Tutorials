@@ -346,6 +346,12 @@ https://towardsdatascience.com/graph-transformer-generalization-of-transformers-
 
 ### <ins> Knowledge Graph</ins>
 
+### Knowldge Graph Embeddings
+https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding
+https://github.com/mklimasz/TransE-PyTorch
+https://github.com/uma-pi1/kge
+https://github.com/torchkge-team/torchkge
+
 #### Blogs
 https://towardsdatascience.com/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273 </br>
 https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef </br>
