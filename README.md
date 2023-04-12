@@ -40,8 +40,7 @@ https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-li
 
 ## <ins>Blogs</ins> </br>
 
-### 
-#### 1. [pytorch_geometric link-prediction-on-heterogeneous-graphs](https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70) - Link Prediction
+
 
 ## <ins> Reinforcement Learning </ins>  </br>
 https://huggingface.co/deep-rl-course/unit0/introduction
@@ -314,6 +313,9 @@ https://docs.dgl.ai/generated/dgl.nn.pytorch.HeteroEmbedding.html DGL HeteroEmbe
 https://github.com/ihollywhy/DistillGCN.PyTorch </br>
 https://www.researchgate.net/profile/Xiaoli-Li-20/publication/336996544_Heterogeneous_Graph_Attention_Networks_for_Semi-supervised_Short_Text_Classification/links/60c466ad4585157774cc99c0/Heterogeneous-Graph-Attention-Networks-for-Semi-supervised-Short-Text-Classification.pdf [HGAT: Heterogeneous Graph Attention Networks for
 Semi-supervised Short Text Classification]</br>
+
+#### Blogs
+1. [pytorch_geometric link-prediction-on-heterogeneous-graphs](https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70) - Link Prediction
 
 
 ### <ins>GAE</ins>  
