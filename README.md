@@ -33,14 +33,6 @@ Created to learn Graph Neural Networks</br>
 
 [LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw) </br>
 
-
-
-
-
-
-
-
-
 ## <ins>Blogs</ins> </br>
 
 1. https://huggingface.co/blog/intro-graphml
@@ -89,6 +81,7 @@ https://github.com/zfjsail/gae-pytorch/tree/c0b95cac8eb2928d0b5d6d65fee938fe97f6
 https://github.com/MysteryVaibhav/fake_news_semantics -- fake news detection </br>
 https://github.com/benedekrozemberczki </br>
 https://github.com/benedekrozemberczki/pytorch_geometric_temporal
+https://github.com/deepchem/deepchem/tree/master/examples/tutorials
 
 
 
