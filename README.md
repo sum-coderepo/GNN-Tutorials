@@ -228,7 +228,7 @@ https://github.com/Haiyang-W/DTI-GAT </br>
 https://github.com/DaehanKim/vgae_pytorch </br>
 https://github.com/zltao/MGAT </br>
 https://github.com/thunlp/KernelGAT </br>
-https://github.com/taishan1994/pytorch_gat/tree/e48e158fd832abd016b0c9805e8f6ff47a56ee77 </br>
+https://github.com/taishan1994/pytorch_gat </br>
 https://github.com/dice-group/GATES </br>
 https://petar-v.com/GAT/ </br>
 https://github.com/sooftware/attentions </br>
