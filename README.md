@@ -232,6 +232,7 @@ https://github.com/taishan1994/pytorch_gat </br>
 https://github.com/dice-group/GATES </br>
 https://petar-v.com/GAT/ </br>
 https://github.com/sooftware/attentions </br>
+https://github.com/dsgiitr/graph_nets
 
 
 
