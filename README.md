@@ -353,6 +353,9 @@ https://github.com/seongjunyun/Graph_Transformer_Networks </br>
 https://github.com/pyg-team/pytorch_geometric/blob/82de9543022d69e5703c17179d77579521ebb43a/examples/tgn.py </br>
 https://github.com/graphdeeplearning/graphtransformer </br>
 https://web.stanford.edu/class/cs25/ -- Transformer United </br> -- 8 lectures on Transformers
+https://github.com/UCLA-DM/pyHGT -- Heterogeneous Graph Transformer (HGT) PYG Version
+https://github.com/dmlc/dgl/tree/master/examples/pytorch/hgt Heterogeneous Graph Transformer (HGT) DGL Version
+
 
 
 #### Research Papers on Graph Transformer Network
