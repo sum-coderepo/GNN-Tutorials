@@ -11,6 +11,7 @@ Created to learn Graph Neural Networks</br>
 5. https://github.com/Lightning-AI/lightning
 6. https://github.com/pyg-team/pytorch_geometric
 7. https://github.com/deepchem/deepchem
+8. https://github.com/dmlc/dgl/tree/master/examples/pytorch Have good research papers with implementation
 
 ### From Twitter </br>
 1. https://github.com/twitter/the-algorithm
