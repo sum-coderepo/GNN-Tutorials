@@ -12,6 +12,7 @@ Created to learn Graph Neural Networks</br>
 6. https://github.com/pyg-team/pytorch_geometric
 7. https://github.com/deepchem/deepchem
 8. https://github.com/dmlc/dgl/tree/master/examples/pytorch Have good research papers with implementation
+9. https://github.com/hwchase17/langchain
 
 ### From Twitter </br>
 1. https://github.com/twitter/the-algorithm
