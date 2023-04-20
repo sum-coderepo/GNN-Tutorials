@@ -13,6 +13,7 @@ Created to learn Graph Neural Networks</br>
 7. https://github.com/deepchem/deepchem
 8. https://github.com/dmlc/dgl/tree/master/examples/pytorch Have good research papers with implementation
 9. https://github.com/hwchase17/langchain
+10. https://github.com/bi-graph/Emgraph
 
 ### From Twitter </br>
 1. https://github.com/twitter/the-algorithm
