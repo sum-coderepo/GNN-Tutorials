@@ -15,7 +15,13 @@ Created to learn Graph Neural Networks</br>
 9. https://github.com/hwchase17/langchain
 10. https://github.com/bi-graph/Emgraph
 
-### From Twitter </br>
+
+## Lab Repos(Unversities and Institutions)
+
+1. https://github.com/BUPT-GAMMA
+2. 
+
+## From Twitter </br>
 1. https://github.com/twitter/the-algorithm
 2. https://github.com/twitter/util
 3. https://github.com/twitter/the-algorithm-ml
