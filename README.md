@@ -423,7 +423,8 @@ https://github.com/MysteryVaibhav/RWR-GAE
 https://github.com/iiscleap/multimodal_emotion_recognition </br>
 https://github.com/rsinghlab/maddi </br>
 https://github.com/sum-coderepo/multimodal-deep-learning </br>
-https://github.com/pliang279/awesome-multimodal-ml </br>
+https://github.com/pliang279/awesome-multimodal-ml  </br>
+https://github.com/enoche/MultimodalRecSys </br>
 
 #### Research Papers on MultiModal
 https://arxiv.org/abs/2203.13883 -- Multi-modal Misinformation Detection: Approaches, Challenges and Opportunities </br>
