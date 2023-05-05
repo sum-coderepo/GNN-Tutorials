@@ -13,7 +13,8 @@ Created to learn Graph Neural Networks</br>
 7. https://github.com/deepchem/deepchem
 8. https://github.com/dmlc/dgl/tree/master/examples/pytorch Have good research papers with implementation
 9. https://github.com/hwchase17/langchain
-10. https://github.com/bi-graph/Emgraph
+10. https://github.com/bi-graph/Emgrap
+11. hhttps://github.com/BUPT-GAMMA/HGAT/
 
 
 ## Lab Repos(Unversities and Institutions)
@@ -268,6 +269,10 @@ https://j.blaszyk.me/tech-blog/geometric-deep-learning-overview/ </br>
 ### <ins>Graph Sage</ins> 
 https://towardsdatascience.com/an-intuitive-explanation-of-graphsage-6df9437ee64f </br>
 https://dsgiitr.com/blogs/graphsage/</br>
+
+### <ins> HGAT </ins>
+https://github.com/Jhy1993/HAN </br>
+https://github.com/BUPT-GAMMA/HGAT/ </br>
 
 
 ### <ins>GCN</ins>   
