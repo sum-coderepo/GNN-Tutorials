@@ -21,7 +21,7 @@ Created to learn Graph Neural Networks</br>
 ## Lab Repos(Unversities and Institutions)
 
 1. https://github.com/BUPT-GAMMA
-2. 
+2. https://github.com/open-mmlab
 
 ## From Twitter </br>
 1. https://github.com/twitter/the-algorithm
@@ -43,6 +43,7 @@ Created to learn Graph Neural Networks</br>
 ## Links
 
 [LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw) </br>
+https://crossminds.ai/search/?keyword=graph&sort=date&filter= </br>
 
 https://crossminds.ai/search/?keyword=graph&sort=date&filter= </br>
 
