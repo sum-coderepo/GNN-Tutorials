@@ -15,7 +15,8 @@ Created to learn Graph Neural Networks</br>
 9. https://github.com/hwchase17/langchain
 10. https://github.com/bi-graph/Emgraph
 11. https://github.com/BUPT-GAMMA/HGAT/
-12. https://docs.dgl.ai/tutorials/models/index.html
+12. https://github.com/BUPT-GAMMA/OpenHGNN
+13. https://docs.dgl.ai/tutorials/models/index.html
 
 
 ## Lab Repos(Unversities and Institutions)
