@@ -323,6 +323,11 @@ https://medium.com/intel-student-ambassadors/implementing-attention-models-in-py
 #### Self Attention
 https://prog.world/introduction-to-graph-neural-networks-with-a-self-attention-mechanism-using-pytorch-geometric-as-an-example/
 
+## <ins> HeteroGenious Information Networks </ins>
+
+#### Research Papers
+https://arxiv.org/pdf/2007.15293.pdf </br>
+
 ### <ins>Heterogeneous Graphs</ins>
 
 #### Code 
@@ -383,6 +388,7 @@ https://github.com/dmlc/dgl/tree/master/examples/pytorch/hgt Heterogeneous Graph
 https://paperswithcode.com/paper/graph-transformer-networks-1 </br>
 https://arxiv.org/abs/2012.09699  -- A Generalization of Transformer Networks to Graphs </br>
 https://docs.dgl.ai/en/0.9.x/tutorials/models/4_old_wines/7_transformer.html -- dgl </br>
+https://arxiv.org/pdf/2003.01332.pdf </br>
 
 #### Blogs
 https://towardsdatascience.com/graph-transformer-generalization-of-transformers-to-graphs-ead2448cff8b </br>
