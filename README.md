@@ -367,6 +367,9 @@ https://github.com/zfjsail/gae-pytorch </br>
 
 ### <ins> Graph Transformer</ins>
 
+#### List of Research Papers
+https://github.com/wehos/awesome-graph-transformer </br>
+
 #### Transformer
 http://nlp.seas.harvard.edu/2018/04/03/attention.html </br>
 https://towardsdatascience.com/into-the-transformer-5ad892e0cee </br>
@@ -389,6 +392,8 @@ https://paperswithcode.com/paper/graph-transformer-networks-1 </br>
 https://arxiv.org/abs/2012.09699  -- A Generalization of Transformer Networks to Graphs </br>
 https://docs.dgl.ai/en/0.9.x/tutorials/models/4_old_wines/7_transformer.html -- dgl </br>
 https://arxiv.org/pdf/2003.01332.pdf </br>
+https://arxiv.org/pdf/1911.06455.pdf -- GraphTransformerNetworks </br>
+https://arxiv.org/pdf/2205.10852.pdf -- Relphormer:RelationalGraphTransformerfor KnowledgeGraphRepresentations </br>
 
 #### Blogs
 https://towardsdatascience.com/graph-transformer-generalization-of-transformers-to-graphs-ead2448cff8b </br>
