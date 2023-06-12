@@ -20,7 +20,6 @@ Created to learn Graph Neural Networks</br>
 
 ## <ins>Examples</ins> </br>
 1. https://github.com/TachiChan/IJCAI2019_HGAT -- Semi-supervised User Profiling with Heterogeneous Graph Attention Networks.
-2. 
 
 
 ## Lab Repos(Unversities and Institutions)
@@ -28,12 +27,6 @@ Created to learn Graph Neural Networks</br>
 1. https://github.com/BUPT-GAMMA
 2. https://github.com/open-mmlab
 3. https://github.com/orgs/UKPLab/repositories
-
-## From Twitter </br>
-1. https://github.com/twitter/the-algorithm
-2. https://github.com/twitter/util
-3. https://github.com/twitter/the-algorithm-ml
-
 
 ## <ins>Repos listing links</ins> </br>
 
@@ -44,44 +37,10 @@ Created to learn Graph Neural Networks</br>
 5. https://github.com/phlippe/uvadlc_notebooks/tree/master/docs/tutorial_notebooks </br>
 6. https://docs.dgl.ai/en/0.9.x/tutorials/models/1_gnn/1_gcn.html  -- DGL paper list </br>
 
-
-
 ## Links
 
 [LinmeiHU](https://scholar.google.com/citations?hl=en&user=TN7dWwEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=sumeetagrawal.srm%40gmail.com&gmla=AJsN-F7OfHw0krUJqOZAC-ipYktCZA165p5_qzHS7HoeNZXBNINeE56Zt272kAZzqsQo46OYMPAOROOzGREAXVBgOesFkrqenFSeb7VkvGpZbhN3z8DW6SCBbCzTMG7FDfzbaxKBGtvfszP3OGv-T632cVE8nL6Kfw) </br>
 https://crossminds.ai/search/?keyword=graph&sort=date&filter= </br>
-
-
-## <ins>Blogs</ins> </br>
-
-1. https://huggingface.co/blog/intro-graphml
-2. https://pub.towardsai.net/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836 </br>
-3. https://towardsdatascience.com/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66 </br>
-4. https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications </br>
-5. https://blog.paperspace.com/geometric-deep-learning-framework-comparison/ </br>
-6. https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library </br>
-7. https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70
-
-## <ins> Reinforcement Learning </ins>  </br>
-https://huggingface.co/deep-rl-course/unit0/introduction
-
-
-## <ins>datasets</ins> </br>
-https://paperswithcode.com/datasets </br>
-
-## <ins> Research Paper Links readme </br>
-
-[GNN-in-RS-wusw14](https://github.com/wusw14/GNN-in-RS) </br>
-[GNNPapers-thunlp](https://github.com/thunlp/GNNPapers) </br>
-[Graph-in-Recommendation-Systems-JockWang](https://github.com/JockWang/Graph-in-Recommendation-Systems) </br>
-[GNN-Recommender-Systems-tsinghua-fib-lab](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) </br>
-https://github.com/hhaji/Deep-Learning
-  1. https://cs.mcgill.ca/~wlh/comp766/index.html
-
-[GNN4NLP-Papers-IndexFziQ](https://github.com/IndexFziQ/GNN4NLP-Papers) </br>
-[annotated_deep_learning_paper_implementations-labmlai](https://github.com/labmlai/annotated_deep_learning_paper_implementations) </br>
-[Recommendation System Paper List-tangxyw git](https://github.com/tangxyw/RecSysPapers)
-
 
 
 ## <ins>Repos</ins>   </br>
@@ -103,17 +62,72 @@ https://github.com/benedekrozemberczki/pytorch_geometric_temporal
 https://github.com/deepchem/deepchem/tree/master/examples/tutorials
 
 
+## <ins>Blogs</ins> </br>
 
-</br>
-</br>
-</br>
+1. https://huggingface.co/blog/intro-graphml
+2. https://pub.towardsai.net/4-graph-neural-networks-you-need-to-know-wlg-gcn-gat-gin-1bf10d29d836 </br>
+3. https://towardsdatascience.com/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66 </br>
+4. https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications </br>
+5. https://blog.paperspace.com/geometric-deep-learning-framework-comparison/ </br>
+6. https://www.exxactcorp.com/blog/Deep-Learning/pytorch-geometric-vs-deep-graph-library </br>
+7. https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70
+8. https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
+9. https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html   </br>
+10. https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html   </br>
+11. https://analyticsindiamag.com/how-to-use-graph-neural-networks-for-text-classification/   </br>
+12. https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc  </br>
+13. https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef  </br>
+14. https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
+15. https://towardsdatascience.com/the-intuition-behind-graph-convolutions-and-message-passing-6dcd0ebf0063  </br>
+16. https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br>
+17. https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-using-pytorch-2kf </br>
+18. http://www2.cs.cas.cz/semincm/lectures/2010-04-13-Hall.pdf --- Adjacency Matrix, Standard Laplacian nd Normalized Laplacian </br>
+19. https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br>
+20. https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af </br> 
+21. https://theaisummer.com/gnn-architectures/?fbclid=IwAR31IBWcJhNwuZFhzUhjuNaEOoDPr07WO7kEuZaLc46p4BL90-vIiKgYpUU </br> 
+22. https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3 -- centality  </br> 
+23. https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-predict-traffic-speed-in-20-minutes-b593f8f838e5 </br>
+24. https://smartmobilityalgorithms.github.io/book/content/GraphSearchAlgorithms/index.html </br>
+25. https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
+26. https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
+27. [Geometric Deep Learning - an overview](https://j.blaszyk.me/geometric-deep-learning-overview/)
 
-## <ins>Courses</ins> 
-https://wandb.ai/syllogismos </br>
-https://geometricdeeplearning.com/lectures/ </br>
-https://gnn.seas.upenn.edu/ https://www.youtube.com/@alelabalelab5337/playlists </br>
-https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 
+## <ins>Applications</ins>  
+https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
+https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
+https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856  </br>
+https://towardsdatascience.com/training-neural-networks-to-predict-rankings-8a3308c472e6 </br>
+
+Anomaly Detection in Ecommerce by GNN:- </br>
+a. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-87516931d38 </br>
+b. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-b4c165b8f08a </br>
+
+
+## <ins>GNN</ins>   
+https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn  </br>
+https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/  </br>
+https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529  </br>
+https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/  </br>
+https://danielegrattarola.github.io/posts/2021-03-12/gnn-lecture-part-2.html </br>
+https://david010.medium.com/graph-neural-networks-3346c6fe7553 </br>
+https://distill.pub/2021/gnn-intro/ </br>
+https://distill.pub/2021/understanding-gnns/ </br>
+https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856 </br>
+https://arshren.medium.com/different-graph-neural-network-implementation-using-pytorch-geometric-23f5bf2f3e9f </br>
+
+
+## github
+https://github.com/alelab-upenn/graph-neural-networks/tree/master/alegnn/modules </br>
+https://github.com/mtiezzi/torch_gnn -- Wrapper over pytorch GNN </br>
+
+## <ins>Colab Notebooks</ins>    </br>
+
+https://colab.research.google.com/drive/1wKwdottbWOxTOgwVnaSLRzPAJPDP9z9n#scrollTo=S3VjuByGAx_V </br>
+https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn </br>
+https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb  </br>
+https://colab.research.google.com/drive/16QTNLSJUD_vTYF9fjHCPwC0Dz2_ysU0W#scrollTo=SZq--U4wzwFN  </br>
+  
 
 ## <ins>Youtube</ins>   :- </br>
 [PyData Tel Aviv Meetup: Node2vec - Elior Cohen 22 Nov 2018](https://www.youtube.com/watch?v=828rZgV9t1g&t=5 ) </br>
@@ -126,17 +140,61 @@ https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 [Learning on Graphs Conference](https://www.youtube.com/@learningongraphs)
 
 
+## From Twitter </br>
+1. https://github.com/twitter/the-algorithm
+2. https://github.com/twitter/util
+3. https://github.com/twitter/the-algorithm-ml
+
+## <ins> Reinforcement Learning </ins>  </br>
+https://huggingface.co/deep-rl-course/unit0/introduction
+
+
+## <ins>datasets</ins> </br>
+https://paperswithcode.com/datasets </br>
+
+## <ins> Research Paper Links readme </br>
+
+[GNN-in-RS-wusw14](https://github.com/wusw14/GNN-in-RS) </br>
+[GNNPapers-thunlp](https://github.com/thunlp/GNNPapers) </br>
+[Graph-in-Recommendation-Systems-JockWang](https://github.com/JockWang/Graph-in-Recommendation-Systems) </br>
+[GNN-Recommender-Systems-tsinghua-fib-lab](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) </br>
+https://github.com/hhaji/Deep-Learning
+  1. https://cs.mcgill.ca/~wlh/comp766/index.html
+
+[GNN4NLP-Papers-IndexFziQ](https://github.com/IndexFziQ/GNN4NLP-Papers) </br>
+[annotated_deep_learning_paper_implementations-labmlai](https://github.com/labmlai/annotated_deep_learning_paper_implementations) </br>
+[Recommendation System Paper List-tangxyw git](https://github.com/tangxyw/RecSysPapers)
+
+## <ins>Courses</ins> 
+https://wandb.ai/syllogismos </br>
+https://geometricdeeplearning.com/lectures/ </br>
+https://gnn.seas.upenn.edu/ https://www.youtube.com/@alelabalelab5337/playlists </br>
+https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
+
+
 ## <ins> BERT </ins> :- </br>
 
 1. https://towardsdatascience.com/masked-language-modelling-with-bert-7d49793e5d2c</br>
 2. https://analyticsindiamag.com/a-complete-tutorial-on-masked-language-modelling-using-bert/</br>
-3. https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/</br>
+3. https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/ </br>
 
 
-## <ins> Attention </ins> :- </br>
+
+
+## <ins> GPT </ins> :- </br>
 ### Blogs
-1. https://medium.com/mlearning-ai/understanding-and-coding-the-attention-mechanism-the-magic-behind-transformers-fe707a85cc3f
-2. 
+1. https://blog.humanfirst.ai/how-to-create-a-custom-fine-tuned-prediction-model-using-base-gpt-3-models/ </br>
+2. https://medium.com/analytics-vidhya/understanding-the-gpt-2-source-code-part-1-4481328ee10b -- Understanding the GPT-2 Source Code Part 1 </br>
+
+### Youtube
+1. https://www.youtube.com/watch?v=kCc8FmEb1nY -- Let's build GPT: from scratch, in code, spelled out. Andrej Karpathy </br>
+
+
+### Github
+1. https://github.com/karpathy/nanoGPT
+2. https://github.com/karpathy/ng-video-lecture/
+3. https://github.com/lyeoni/gpt-pytorch
+
 
 
 ## <ins> Transformer </ins> :- </br>
@@ -167,68 +225,9 @@ Transformers
 ### Youtube
 1. [Attention Models](https://www.youtube.com/playlist?list=PLgtf4d9zHHO8p_zDKstvqvtkv80jhHxoE)
 
-## <ins>Colab Notebooks</ins>    </br>
-
-https://colab.research.google.com/drive/1wKwdottbWOxTOgwVnaSLRzPAJPDP9z9n#scrollTo=S3VjuByGAx_V </br>
-https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn </br>
-https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb  </br>
-https://colab.research.google.com/drive/16QTNLSJUD_vTYF9fjHCPwC0Dz2_ysU0W#scrollTo=SZq--U4wzwFN  </br>
-
-  </br>
-
-## <ins>Blogs</ins>    </br>
-https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
-https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html   </br>
-https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html   </br>
-https://analyticsindiamag.com/how-to-use-graph-neural-networks-for-text-classification/   </br>
-https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc  </br>
-https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef  </br>
-https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8  </br>
-https://towardsdatascience.com/the-intuition-behind-graph-convolutions-and-message-passing-6dcd0ebf0063  </br>
-https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br>
-https://dev.to/awadelrahman/tutorial-graph-neural-networks-for-social-networks-using-pytorch-2kf </br>
-http://www2.cs.cas.cz/semincm/lectures/2010-04-13-Hall.pdf --- Adjacency Matrix, Standard Laplacian,
-and Normalized Laplacian </br> 
-https://towardsdatascience.com/program-a-simple-graph-net-in-pytorch-e00b500a642d </br> 
-https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af </br> 
-https://theaisummer.com/gnn-architectures/?fbclid=IwAR31IBWcJhNwuZFhzUhjuNaEOoDPr07WO7kEuZaLc46p4BL90-vIiKgYpUU </br> 
-https://towardsdatascience.com/graph-analytics-introduction-and-concepts-of-centrality-8f5543b55de3 -- centality  </br> 
-https://towardsdatascience.com/build-your-first-graph-neural-network-model-to-predict-traffic-speed-in-20-minutes-b593f8f838e5 </br>
-https://smartmobilityalgorithms.github.io/book/content/GraphSearchAlgorithms/index.html </br>
-https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
-https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
-[Geometric Deep Learning - an overview](https://j.blaszyk.me/geometric-deep-learning-overview/)
 
 
-Anomaly Detection in Ecommerce by GNN:- </br>
-a. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-87516931d38 </br>
-b. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-b4c165b8f08a </br>
 
- 
-
-### <ins>Applications</ins>  
-https://medium.com/criteo-engineering/top-applications-of-graph-neural-networks-2021-c06ec82bfc18  </br>
-https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications  </br>
-https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856  </br>
-https://towardsdatascience.com/training-neural-networks-to-predict-rankings-8a3308c472e6 </br>
-
-
-### <ins>GNN</ins>   
-https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn  </br>
-https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/  </br>
-https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529  </br>
-https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/  </br>
-https://danielegrattarola.github.io/posts/2021-03-12/gnn-lecture-part-2.html </br>
-https://david010.medium.com/graph-neural-networks-3346c6fe7553 </br>
-https://distill.pub/2021/gnn-intro/ </br>
-https://distill.pub/2021/understanding-gnns/ </br>
-https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856 </br>
-https://arshren.medium.com/different-graph-neural-network-implementation-using-pytorch-geometric-23f5bf2f3e9f </br>
-
-
-#### github
-https://github.com/alelab-upenn/graph-neural-networks/tree/master/alegnn/modules </br>
-https://github.com/mtiezzi/torch_gnn -- Wrapper over pytorch GNN </br>
 
 
 
@@ -318,12 +317,18 @@ https://towardsdatascience.com/graph-neural-networks-for-multi-relational-data-2
 https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb </br>
 https://github.com/cmhungsteve/Awesome-Transformer-Attention </br>
 https://medium.com/intel-student-ambassadors/implementing-attention-models-in-pytorch-f947034b3e66 </br>
+https://medium.com/mlearning-ai/understanding-and-coding-the-attention-mechanism-the-magic-behind-transformers-fe707a85cc3f </br>
+https://towardsdatascience.com/attention-and-its-different-forms-7fc3674d14dc </br>
 
 #### Scaled doct product Attention
-[YouTube - Scaled Dot Product Attention explained (Transformers)](https://www.youtube.com/watch?v=pdnm-FHZtvc&list=PLvELbYeZ7GEGeKI4bkR57XuEofp3BcO6r&t=650)
+[YouTube - Scaled Dot Product Attention explained (Transformers)](https://www.youtube.com/watch?v=pdnm-FHZtvc&list=PLvELbYeZ7GEGeKI4bkR57XuEofp3BcO6r&t=650) </br>
 
 #### Self Attention
-https://prog.world/introduction-to-graph-neural-networks-with-a-self-attention-mechanism-using-pytorch-geometric-as-an-example/
+https://prog.world/introduction-to-graph-neural-networks-with-a-self-attention-mechanism-using-pytorch-geometric-as-an-example/ </br>
+
+
+
+
 
 ## <ins> HeteroGenious Information Networks </ins>
 
@@ -396,10 +401,12 @@ https://docs.dgl.ai/en/0.9.x/tutorials/models/4_old_wines/7_transformer.html -- 
 https://arxiv.org/pdf/2003.01332.pdf </br>
 https://arxiv.org/pdf/1911.06455.pdf -- GraphTransformerNetworks </br>
 https://arxiv.org/pdf/2205.10852.pdf -- Relphormer:RelationalGraphTransformerfor KnowledgeGraphRepresentations </br>
+https://arxiv.org/pdf/1911.07470.pdf -- GraphTransformerforGraph-to-SequenceLearning∗
 
 #### Blogs
 https://towardsdatascience.com/graph-transformer-generalization-of-transformers-to-graphs-ead2448cff8b </br>
 https://towardsdatascience.com/graphgps-navigating-graph-transformers-c2cc223a051c </br>
+https://huggingface.co/blog/graphml-classification </br>
 
 ### <ins> Knowledge Graph</ins>
 
