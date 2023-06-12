@@ -132,6 +132,13 @@ https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/ </br>
 2. https://analyticsindiamag.com/a-complete-tutorial-on-masked-language-modelling-using-bert/</br>
 3. https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/</br>
 
+
+## <ins> Attention </ins> :- </br>
+### Blogs
+1. https://medium.com/mlearning-ai/understanding-and-coding-the-attention-mechanism-the-magic-behind-transformers-fe707a85cc3f
+2. 
+
+
 ## <ins> Transformer </ins> :- </br>
 ### Blogs
 
@@ -159,11 +166,6 @@ Transformers
 
 ### Youtube
 1. [Attention Models](https://www.youtube.com/playlist?list=PLgtf4d9zHHO8p_zDKstvqvtkv80jhHxoE)
-
-
-
-
-
 
 ## <ins>Colab Notebooks</ins>    </br>
 
