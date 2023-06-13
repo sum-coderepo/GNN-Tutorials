@@ -220,6 +220,7 @@ Transformers
 1. [jsbaan/transformer-from-scratch](https://github.com/jsbaan/transformer-from-scratch)
 2. [pbloem/former](https://github.com/pbloem/former)
 3. https://data.dgl.ai/tutorial/7_transformer.py
+4. https://github.com/dmlc/dgl/tree/c4aa74baf80551515c8f58244137deedea920172/examples/pytorch/transformer
 
 
 ### Youtube
