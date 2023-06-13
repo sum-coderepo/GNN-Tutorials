@@ -347,8 +347,8 @@ https://arxiv.org/pdf/2007.15293.pdf </br>
 [dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rst](https://github.com/dmlc/dgl/blob/master/docs/source/guide/graph-heterogeneous.rst) </br>
 [dmlc/dgl/tree/master/examples/pytorch/han](https://github.com/dmlc/dgl/tree/master/examples/pytorch/han) </br>
 [Jhy1993/HAN](https://github.com/Jhy1993/HAN) </br>
-[chuxuzhang/KDD2019_HetGNN](https://github.com/chuxuzhang/KDD2019_HetGNN/tree/2f020acce23d0d59407560b0e106c2f6c1b16720)
-[UCLA-DM/HGT-DGL](https://github.com/UCLA-DM/HGT-DGL)
+[chuxuzhang/KDD2019_HetGNN](https://github.com/chuxuzhang/KDD2019_HetGNN/tree/2f020acce23d0d59407560b0e106c2f6c1b16720) </br>
+[UCLA-DM/HGT-DGL](https://github.com/UCLA-DM/HGT-DGL) </br>
 
 #### Blogs
 1. https://medium.com/@pytorch_geometric/link-prediction-on-heterogeneous-graphs-with-pyg-6d5c29677c70
