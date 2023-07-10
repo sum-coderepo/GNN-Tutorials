@@ -21,6 +21,9 @@ Created to learn Graph Neural Networks</br>
 ## <ins>Examples</ins> </br>
 1. https://github.com/TachiChan/IJCAI2019_HGAT -- Semi-supervised User Profiling with Heterogeneous Graph Attention Networks.
 
+## LinkedIn
+1. https://docs.google.com/document/d/e/2PACX-1vQ_idLzmQBpGdH2oOk5wsnlhB1SUiyGmNFc3Qe__ukv7cVilJOJ6bmNFKxTL5RtiVsFoyDC7Ljg8EDU/pub?urp=gmail_link
+
 
 ## Lab Repos(Unversities and Institutions)
 
