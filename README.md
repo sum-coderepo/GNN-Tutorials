@@ -1,7 +1,6 @@
 # GNN-Tutorials
 Created to learn Graph Neural Networks</br>
 
-
 ## <ins>Some Open Source AI Libraries/Projects</ins> </br>
 
 1. https://github.com/huggingface/transformers
@@ -141,6 +140,10 @@ https://colab.research.google.com/drive/16QTNLSJUD_vTYF9fjHCPwC0Dz2_ysU0W#scroll
 [AMMI Geometric Deep Learning Course (2021)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) </br>
 [AMMI Geometric Deep Learning Course (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)  </br>
 [Learning on Graphs Conference](https://www.youtube.com/@learningongraphs)
+
+
+## KG
+1. https://docs.google.com/document/d/e/2PACX-1vQ_idLzmQBpGdH2oOk5wsnlhB1SUiyGmNFc3Qe__ukv7cVilJOJ6bmNFKxTL5RtiVsFoyDC7Ljg8EDU/pub?urp=gmail_link
 
 
 ## From Twitter </br>
