@@ -16,6 +16,7 @@ Created to learn Graph Neural Networks</br>
 11. https://github.com/BUPT-GAMMA/HGAT/
 12. https://github.com/BUPT-GAMMA/OpenHGNN
 13. https://docs.dgl.ai/tutorials/models/index.html
+14. https://github.com/langchain-ai
 
 ## <ins>Examples</ins> </br>
 1. https://github.com/TachiChan/IJCAI2019_HGAT -- Semi-supervised User Profiling with Heterogeneous Graph Attention Networks.
