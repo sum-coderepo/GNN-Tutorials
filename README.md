@@ -94,6 +94,7 @@ https://github.com/deepchem/deepchem/tree/master/examples/tutorials
 25. https://medium.com/swlh/recommendation-system-implementation-with-deep-learning-and-pytorch-a03ee84a96f4 </br>
 26. https://towardsdatascience.com/graph-convolutional-network-for-time-series-an-intro-6d1b01ea3bc </br>
 27. [Geometric Deep Learning - an overview](https://j.blaszyk.me/geometric-deep-learning-overview/)
+28. https://towardsdatascience.com/scalable-graph-transformers-for-million-nodes-2f0014ceb9d4
 
 
 ## <ins>Applications</ins>  
