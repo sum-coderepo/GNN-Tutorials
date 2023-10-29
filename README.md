@@ -17,6 +17,7 @@ Created to learn Graph Neural Networks</br>
 12. https://github.com/BUPT-GAMMA/OpenHGNN
 13. https://docs.dgl.ai/tutorials/models/index.html
 14. https://github.com/langchain-ai
+15. https://github.com/mindsdb/mindsdb
 
 
 ## LinkedIn
