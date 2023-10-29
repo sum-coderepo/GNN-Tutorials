@@ -544,11 +544,11 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision  | https://github.com/dongkwan-kim/SuperGAT  | [link](https://openreview.net/pdf?id=Wi5KUNlqWty) |
 | Sparse Graph Attention Networks | https://github.com/Yangyeeee/SGAT | [link](https://arxiv.org/pdf/1912.00552.pdf)  |
 | Social Attention: Modeling Attention in Human Crowds  | https://github.com/huang-xx/STGAT/tree/master/STGAT | [link](https://arxiv.org/pdf/1710.04689.pdf)  |
-| Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks  | https://github.com/ujeong1/IEEEBigdata22_HGFND  | [link](https://arxiv.org/pdf/2212.12621.pdf)  |
-| ESA: Entity Summarization with Attention  | https://github.com/djwei96/ESA  | [link](https://arxiv.org/pdf/1905.10625.pdf)  |
-| BertGCN: Transductive Text Classification by Combining GCN and BERT | https://github.com/ZeroRin/BertGCN  | [link](https://github.com/ZeroRin/BertGCN)  |
-| RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment | https://github.com/zhurboo/RAGA | [link](https://arxiv.org/pdf/2103.00791.pdf)  |
-| Graph Attention Multi-Layer Perceptron  |[zwt233/GAMLP}( https://github.com/zwt233/GAMLP) | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  |
+| Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks  | [ujeong1/IEEEBigdata22_HGFND ](https://github.com/ujeong1/IEEEBigdata22_HGFND)  | [link](https://arxiv.org/pdf/2212.12621.pdf)  |
+| ESA: Entity Summarization with Attention  | [djwei96/ESA](https://github.com/djwei96/ESA)  | [link](https://arxiv.org/pdf/1905.10625.pdf)  |
+| BertGCN: Transductive Text Classification by Combining GCN and BERT | [ZeroRin/BertGCN ](https://github.com/ZeroRin/BertGCN)  | [link](https://github.com/ZeroRin/BertGCN)  |
+| RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment | [zhurboo/RAGA](https://github.com/zhurboo/RAGA) | [link](https://arxiv.org/pdf/2103.00791.pdf)  |
+| Graph Attention Multi-Layer Perceptron  |[zwt233/GAMLP]( https://github.com/zwt233/GAMLP) | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  |
 | Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | [zhongpeixiang/KET](https://github.com/zhongpeixiang/KET)  | [link](https://aclanthology.org/D19-1016.pdf) |
 | Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | [deepakn97/relationPrediction](https://github.com/deepakn97/relationPrediction) | [link](https://arxiv.org/abs/1906.01195)  | 
 | Graph Neural Networks for Social Recommendation | [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19)  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
