@@ -539,11 +539,11 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Fine-grained Fact Verification with Kernel Graph Attention Network  | https://github.com/thunlp/KernelGAT | [link](https://aclanthology.org/2020.acl-main.655.pdf)  |
 | Transferable Graph Generation for Zero-shot and Few-shot Learning | https://github.com/zcrwind/tgg-pytorch  | [link](https://arxiv.org/pdf/1908.11503.pdf)  |
 | Signed Graph Attention Networks | https://github.com/huangjunjie-cs/SiGAT  | [link](https://arxiv.org/pdf/1906.10958.pdf) |
-| Graph Attention Auto-Encoders | https://github.com/amin-salehi/GATE  | [link](https://arxiv.org/pdf/1905.10715.pdf)  |
-| Graph Classification using Structural Attention | https://github.com/benedekrozemberczki/GAM  | [link](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf) |
-| How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision  | https://github.com/dongkwan-kim/SuperGAT  | [link](https://openreview.net/pdf?id=Wi5KUNlqWty) |
-| Sparse Graph Attention Networks | https://github.com/Yangyeeee/SGAT | [link](https://arxiv.org/pdf/1912.00552.pdf)  |
-| Social Attention: Modeling Attention in Human Crowds  | https://github.com/huang-xx/STGAT/tree/master/STGAT | [link](https://arxiv.org/pdf/1710.04689.pdf)  |
+| Graph Attention Auto-Encoders | [amin-salehi/GATE](https://github.com/amin-salehi/GATE)  | [link](https://arxiv.org/pdf/1905.10715.pdf)  |
+| Graph Classification using Structural Attention | [benedekrozemberczki/GAM](https://github.com/benedekrozemberczki/GAM)  | [link](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf) |
+| How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision  | [dongkwan-kim/SuperGAT](https://github.com/dongkwan-kim/SuperGAT)  | [link](https://openreview.net/pdf?id=Wi5KUNlqWty) |
+| Sparse Graph Attention Networks | [Yangyeeee/SGAT](https://github.com/Yangyeeee/SGAT) | [link](https://arxiv.org/pdf/1912.00552.pdf)  |
+| Social Attention: Modeling Attention in Human Crowds  | [huang-xx/STGAT](https://github.com/huang-xx/STGAT/tree/master/STGAT) | [link](https://arxiv.org/pdf/1710.04689.pdf)  |
 | Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks  | [ujeong1/IEEEBigdata22_HGFND ](https://github.com/ujeong1/IEEEBigdata22_HGFND)  | [link](https://arxiv.org/pdf/2212.12621.pdf)  |
 | ESA: Entity Summarization with Attention  | [djwei96/ESA](https://github.com/djwei96/ESA)  | [link](https://arxiv.org/pdf/1905.10625.pdf)  |
 | BertGCN: Transductive Text Classification by Combining GCN and BERT | [ZeroRin/BertGCN ](https://github.com/ZeroRin/BertGCN)  | [link](https://github.com/ZeroRin/BertGCN)  |
