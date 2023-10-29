@@ -548,9 +548,9 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | ESA: Entity Summarization with Attention  | https://github.com/djwei96/ESA  | [link](https://arxiv.org/pdf/1905.10625.pdf)  |
 | BertGCN: Transductive Text Classification by Combining GCN and BERT | https://github.com/ZeroRin/BertGCN  | [link](https://github.com/ZeroRin/BertGCN)  |
 | RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment | https://github.com/zhurboo/RAGA | [link](https://arxiv.org/pdf/2103.00791.pdf)  |
-| Graph Attention Multi-Layer Perceptron  | https://github.com/zwt233/GAMLP | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  |
-| Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | https://github.com/zhongpeixiang/KET  | [link](https://aclanthology.org/D19-1016.pdf) |
-| Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | https://github.com/deepakn97/relationPrediction | [link](https://arxiv.org/abs/1906.01195)  | 
-| Graph Neural Networks for Social Recommendation | https://github.com/wenqifan03/GraphRec-WWW19  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
+| Graph Attention Multi-Layer Perceptron  |[zwt233/GAMLP}( https://github.com/zwt233/GAMLP) | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  |
+| Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | [zhongpeixiang/KET](https://github.com/zhongpeixiang/KET)  | [link](https://aclanthology.org/D19-1016.pdf) |
+| Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | [deepakn97/relationPrediction](https://github.com/deepakn97/relationPrediction) | [link](https://arxiv.org/abs/1906.01195)  | 
+| Graph Neural Networks for Social Recommendation | [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19)  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
 | MultimodalTranslation-BasedApproach for KnowledgeGraphRepresentationLearning | [UKPLab/starsem18-multimodalKB](https://github.com/UKPLab/starsem18-multimodalKB) | [link](https://aclanthology.org/S18-2027.pdf) 
 | AttendingtoGraphTransformers | [luis-mueller/probing-graph-transformers](https://github.com/luis-mueller/probing-graph-transformers) | [link](https://arxiv.org/pdf/2302.04181.pdf)
