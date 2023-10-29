@@ -553,3 +553,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | https://github.com/deepakn97/relationPrediction | [link](https://arxiv.org/abs/1906.01195)  | 
 | Graph Neural Networks for Social Recommendation | https://github.com/wenqifan03/GraphRec-WWW19  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
 | MultimodalTranslation-BasedApproach for KnowledgeGraphRepresentationLearning | https://github.com/UKPLab/starsem18-multimodalKB | [link](https://aclanthology.org/S18-2027.pdf) 
+| AttendingtoGraphTransformers | [link](https://github.com/luis-mueller/probing-graph-transformers) | [link](https://arxiv.org/pdf/2302.04181.pdf)
