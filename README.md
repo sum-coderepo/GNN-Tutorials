@@ -528,17 +528,17 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 
 | Title       |       Github        |     Link        |
 | :---:              |     :---:           |          :---:       |
-| Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | [link](https://arxiv.org/pdf/2006.14002.pdf)     |
-| NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | https://github.com/QData/LaMP       | [link](https://arxiv.org/pdf/1904.08049.pdf)      |
-| MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | https://github.com/cynricfu/MAGNN | [link](https://arxiv.org/abs/2002.01680) |
-| Graph Neural Fake News Detection with External Knowledge  | https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection  | [link](https://aclanthology.org/2021.acl-long.62.pdf) |
-| Positional Encoder Graph Neural Networks for Geographic Data  | https://github.com/konstantinklemmer/pe-gnn | [link](https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for) |
-| Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE |[link](https://arxiv.org/pdf/2009.12765.pdf) |
-| Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | https://github.com/yulun-rayn/dgapn | [link](https://arxiv.org/pdf/2106.02190.pdf)  |
-| DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | [link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424) |
-| Fine-grained Fact Verification with Kernel Graph Attention Network  | https://github.com/thunlp/KernelGAT | [link](https://aclanthology.org/2020.acl-main.655.pdf)  |
-| Transferable Graph Generation for Zero-shot and Few-shot Learning | https://github.com/zcrwind/tgg-pytorch  | [link](https://arxiv.org/pdf/1908.11503.pdf)  |
-| Signed Graph Attention Networks | https://github.com/huangjunjie-cs/SiGAT  | [link](https://arxiv.org/pdf/1906.10958.pdf) |
+| Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | [codeKgu/BiLevel-Graph-Neural-Network](https://github.com/codeKgu/BiLevel-Graph-Neural-Network)     | [link](https://arxiv.org/pdf/2006.14002.pdf)     |
+| NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | [QData/LaMP](https://github.com/QData/LaMP)      | [link](https://arxiv.org/pdf/1904.08049.pdf)      |
+| MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | [cynricfu/MAGNN](https://github.com/cynricfu/MAGNN) | [link](https://arxiv.org/abs/2002.01680) |
+| Graph Neural Fake News Detection with External Knowledge  | [BUPT-GAMMA/CompareNet_FakeNewsDetection](https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection)  | [link](https://aclanthology.org/2021.acl-long.62.pdf) |
+| Positional Encoder Graph Neural Networks for Geographic Data  | [konstantinklemmer/pe-gnn](https://github.com/konstantinklemmer/pe-gnn) | [link](https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for) |
+| Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | [Hunter-DDM/InvTransE-and-InvRotatE](https://github.com/Hunter-DDM/InvTransE-and-InvRotatE) |[link](https://arxiv.org/pdf/2009.12765.pdf) |
+| Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | [yulun-rayn/dgapn](https://github.com/yulun-rayn/dgapn) | [link](https://arxiv.org/pdf/2106.02190.pdf)  |
+| DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | [junkangwu/DisenKGAT](https://github.com/junkangwu/DisenKGAT)  | [link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424) |
+| Fine-grained Fact Verification with Kernel Graph Attention Network  | [thunlp/KernelGAT ](https://github.com/thunlp/KernelGAT) | [link](https://aclanthology.org/2020.acl-main.655.pdf)  |
+| Transferable Graph Generation for Zero-shot and Few-shot Learning | [zcrwind/tgg-pytorch](https://github.com/zcrwind/tgg-pytorch)  | [link](https://arxiv.org/pdf/1908.11503.pdf)  |
+| Signed Graph Attention Networks | [huangjunjie-cs/SiGAT](https://github.com/huangjunjie-cs/SiGAT)  | [link](https://arxiv.org/pdf/1906.10958.pdf) |
 | Graph Attention Auto-Encoders | [amin-salehi/GATE](https://github.com/amin-salehi/GATE)  | [link](https://arxiv.org/pdf/1905.10715.pdf)  |
 | Graph Classification using Structural Attention | [benedekrozemberczki/GAM](https://github.com/benedekrozemberczki/GAM)  | [link](http://ryanrossi.com/pubs/KDD18-graph-attention-model.pdf) |
 | How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision  | [dongkwan-kim/SuperGAT](https://github.com/dongkwan-kim/SuperGAT)  | [link](https://openreview.net/pdf?id=Wi5KUNlqWty) |
