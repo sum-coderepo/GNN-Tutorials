@@ -107,6 +107,10 @@ a. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for
 b. https://medium.com/walmartglobaltech/an-overview-of-graph-neural-networks-for-anomaly-detection-in-e-commerce-b4c165b8f08a </br>
 
 
+## <ins>Pytorch Related</ins>  
+1.[Algorithm Researcher explains how Pytorch Datasets and DataLoaders work](https://www.youtube.com/watch?v=Sj-gIb0QiRM)
+2.
+
 ## <ins>GNN</ins>   
 https://datascience.stackexchange.com/questions/64278/what-is-a-channel-in-a-cnn  </br>
 https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/  </br>
