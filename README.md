@@ -526,7 +526,7 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 
 
 
-| Title       |       Github        |     Link        |
+| Title       |       Github        |     Link        | Genre |
 | :---:              |     :---:           |          :---:       |          ---:       |
 | Bi-Level Graph Neural Networks for Drug-Drug Interaction Prediction   | https://github.com/codeKgu/BiLevel-Graph-Neural-Network      | [link](https://arxiv.org/pdf/2006.14002.pdf)     |
 | NEURAL MESSAGE PASSING FOR MULTI-LABEL CLASSIFICATION    | https://github.com/QData/LaMP       | [link](https://arxiv.org/pdf/1904.08049.pdf)      |
