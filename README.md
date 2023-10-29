@@ -552,5 +552,5 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | https://github.com/zhongpeixiang/KET  | [link](https://aclanthology.org/D19-1016.pdf) |
 | Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | https://github.com/deepakn97/relationPrediction | [link](https://arxiv.org/abs/1906.01195)  | 
 | Graph Neural Networks for Social Recommendation | https://github.com/wenqifan03/GraphRec-WWW19  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
-| MultimodalTranslation-BasedApproach for KnowledgeGraphRepresentationLearning | https://github.com/UKPLab/starsem18-multimodalKB | [link](https://aclanthology.org/S18-2027.pdf) 
-| AttendingtoGraphTransformers | [link](https://github.com/luis-mueller/probing-graph-transformers) | [link](https://arxiv.org/pdf/2302.04181.pdf)
+| MultimodalTranslation-BasedApproach for KnowledgeGraphRepresentationLearning | [UKPLab/starsem18-multimodalKB](https://github.com/UKPLab/starsem18-multimodalKB) | [link](https://aclanthology.org/S18-2027.pdf) 
+| AttendingtoGraphTransformers | [luis-mueller/probing-graph-transformers](https://github.com/luis-mueller/probing-graph-transformers) | [link](https://arxiv.org/pdf/2302.04181.pdf)
