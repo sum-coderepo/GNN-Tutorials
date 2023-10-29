@@ -549,7 +549,7 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | BertGCN: Transductive Text Classification by Combining GCN and BERT | https://github.com/ZeroRin/BertGCN  | [link](https://github.com/ZeroRin/BertGCN)  |
 | RAGA: Relation-aware Graph Attention Networks for Global Entity Alignment | https://github.com/zhurboo/RAGA | [link](https://arxiv.org/pdf/2103.00791.pdf)  |
 | Graph Attention Multi-Layer Perceptron  | https://github.com/zwt233/GAMLP | [link](https://arxiv.org/pdf/2206.04355v1.pdf)  |
-| Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | https://github.com/zhongpeixiang/KET  | [link](https://aclanthology.org/D19-1016.pdf) | TBD |
+| Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations | https://github.com/zhongpeixiang/KET  | [link](https://aclanthology.org/D19-1016.pdf) |
 | Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs | https://github.com/deepakn97/relationPrediction | [link](https://arxiv.org/abs/1906.01195)  | 
 | Graph Neural Networks for Social Recommendation | https://github.com/wenqifan03/GraphRec-WWW19  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
 | MultimodalTranslation-BasedApproach for KnowledgeGraphRepresentationLearning | https://github.com/UKPLab/starsem18-multimodalKB | [link](https://aclanthology.org/S18-2027.pdf) 
