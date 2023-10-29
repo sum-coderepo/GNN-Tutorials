@@ -18,8 +18,6 @@ Created to learn Graph Neural Networks</br>
 13. https://docs.dgl.ai/tutorials/models/index.html
 14. https://github.com/langchain-ai
 
-## <ins>Examples</ins> </br>
-1. https://github.com/TachiChan/IJCAI2019_HGAT -- Semi-supervised User Profiling with Heterogeneous Graph Attention Networks.
 
 ## LinkedIn
 1. https://docs.google.com/document/d/e/2PACX-1vQ_idLzmQBpGdH2oOk5wsnlhB1SUiyGmNFc3Qe__ukv7cVilJOJ6bmNFKxTL5RtiVsFoyDC7Ljg8EDU/pub?urp=gmail_link
@@ -554,3 +552,4 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Graph Neural Networks for Social Recommendation | [wenqifan03/GraphRec-WWW19](https://github.com/wenqifan03/GraphRec-WWW19)  | [link](https://arxiv.org/pdf/1902.07243.pdf)  |
 | MultimodalTranslation-BasedApproach for KnowledgeGraphRepresentationLearning | [UKPLab/starsem18-multimodalKB](https://github.com/UKPLab/starsem18-multimodalKB) | [link](https://aclanthology.org/S18-2027.pdf) 
 | AttendingtoGraphTransformers | [luis-mueller/probing-graph-transformers](https://github.com/luis-mueller/probing-graph-transformers) | [link](https://arxiv.org/pdf/2302.04181.pdf)
+| Semi-supervisedUserProfilingwithHeterogeneousGraphAttentionNetworks | [TachiChan/IJCAI2019_HGAT](https://github.com/TachiChan/IJCAI2019_HGAT) | [link](https://www.ijcai.org/proceedings/2019/0293.pdf)
