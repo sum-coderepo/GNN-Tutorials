@@ -535,7 +535,7 @@ https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf -- R
 | Positional Encoder Graph Neural Networks for Geographic Data  | https://github.com/konstantinklemmer/pe-gnn | [link](https://paperswithcode.com/paper/positional-encoder-graph-neural-networks-for) |
 | Inductively Representing Out-of-Knowledge-Graph Entities by Optimal Estimation Under Translational Assumptions  | https://github.com/Hunter-DDM/InvTransE-and-InvRotatE |[link](https://arxiv.org/pdf/2009.12765.pdf) |
 | Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery  | https://github.com/yulun-rayn/dgapn | [link](https://arxiv.org/pdf/2106.02190.pdf)  |
-| DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | [link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424) | TBD |
+| DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network  | https://github.com/junkangwu/DisenKGAT  | [link](https://dl.acm.org/doi/abs/10.1145/3459637.3482424) |
 | Fine-grained Fact Verification with Kernel Graph Attention Network  | https://github.com/thunlp/KernelGAT | [link](https://aclanthology.org/2020.acl-main.655.pdf)  | TBD |
 | Transferable Graph Generation for Zero-shot and Few-shot Learning | https://github.com/zcrwind/tgg-pytorch  | [link](https://arxiv.org/pdf/1908.11503.pdf)  | TBD |
 | Signed Graph Attention Networks | https://github.com/huangjunjie-cs/SiGAT  | [link](https://arxiv.org/pdf/1906.10958.pdf) | TBD |
