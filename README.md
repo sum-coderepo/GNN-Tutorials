@@ -441,6 +441,7 @@ https://huggingface.co/blog/graphml-classification </br>
 2. https://medium.com/@emreeyukseel/a-brief-summary-of-knowledge-graphs-5b9d854235e5
 3. https://medium.com/swlh/text-to-knowledge-graph-683002cde6e0
 4. https://towardsdatascience.com/how-to-build-a-knowledge-graph-with-neo4j-and-transformers-72b9471d6969
+5. https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72
 
 
 #### Research Papers on Knowledge Graph
